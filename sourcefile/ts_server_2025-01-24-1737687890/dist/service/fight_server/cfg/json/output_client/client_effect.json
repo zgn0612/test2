@@ -1,0 +1,560 @@
+[
+  {
+    "number" : "BT4-017",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-111",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      1,
+      10008
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-027",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST6-13",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST4-13",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST5-13",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST7-03",
+    "skill1" : "CC_ST7_03",
+    "param1" : [],
+    "param2" : []
+  },
+  {
+    "number" : "ST8-04",
+    "skill1" : "CC_ST8_04",
+    "param1" : [],
+    "param2" : []
+  },
+  {
+    "number" : "ST9-05",
+    "skill1" : "CC_FusionInHand",
+    "param1" : [
+      2,
+      4,
+      4,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST9-11",
+    "skill1" : "CC_FusionInHand",
+    "param1" : [
+      4,
+      4,
+      2,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "ST10-06",
+    "skill1" : "CC_FusionInHand",
+    "param1" : [
+      3,
+      5,
+      6,
+      5
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT1-088",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      1,
+      1,
+      1,
+      4,
+      5
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT1-089",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      1,
+      1,
+      1,
+      4,
+      5
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT2-111",
+    "skill1" : "CC_BT2_111",
+    "param1" : [],
+    "param2" : []
+  },
+  {
+    "number" : "P-012",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      2,
+      1,
+      10123
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-012",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-019",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-032",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-046",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-059",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-068",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-093",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      3,
+      2,
+      8
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-026",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-054",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-079",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      3
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-025",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-026",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-011",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-013",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-087",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      100,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-025",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-027",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-028",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-088",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      100,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-097",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-049",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      3
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-014",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      3,
+      10676
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-100",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-046",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-056",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-057",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      3
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-049",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-050",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-072",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT5-067",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      3,
+      10255
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-060",
+    "skill1" : "CC_BT6_060",
+    "param1" : [],
+    "param2" : []
+  },
+  {
+    "number" : "BT4-081",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT6-107",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-035",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-036",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-037",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-038",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-039",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "P-040",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      200,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-011",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-017",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      3,
+      10088
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-085",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      100,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT8-015",
+    "skill1" : "CC_FusionInHand",
+    "param1" : [
+      1,
+      4,
+      3,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-021",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-022",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-023",
+    "skill1" : "CC_EvoInHand",
+    "param1" : [
+      2,
+      2
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-087",
+    "skill1" : "CC_CheckInBattleRole",
+    "param1" : [
+      100,
+      1
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT8-042",
+    "skill1" : "CC_FusionInHand",
+    "param1" : [
+      3,
+      4,
+      2,
+      4
+    ],
+    "param2" : []
+  },
+  {
+    "number" : "BT7-034",
+    "skill1" : "CC_Baolie",
+    "param1" : [
+      2
+    ],
+    "param2" : []
+  }
+]

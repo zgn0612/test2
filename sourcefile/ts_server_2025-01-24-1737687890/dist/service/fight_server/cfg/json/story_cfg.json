@@ -1,0 +1,3737 @@
+[
+  {
+    "group_id" : 1,
+    "scene_id" : 1,
+    "scene_pic" : 0,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1101"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 2,
+    "scene_id" : 2,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_1",
+    "role_behavior" : [
+      "1,1,0",
+      "1,4,1"
+    ],
+    "skip_id" : [
+      "3"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 2,
+    "scene_id" : 3,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_2",
+    "role_behavior" : [
+      "1,4,0",
+      "3,1,1",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "4"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 2,
+    "scene_id" : 4,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_3",
+    "role_behavior" : [
+      "1,4,0",
+      "3,13,chr9_0001_02",
+      "3,4,1"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 3,
+    "scene_id" : 5,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_4",
+    "role_behavior" : [
+      "3,1,1",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "6"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 3,
+    "scene_id" : 6,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_5",
+    "role_behavior" : [
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "7"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 3,
+    "scene_id" : 7,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1102"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 8,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_6",
+    "role_behavior" : [
+      "1,1,0",
+      "1,4,1"
+    ],
+    "skip_id" : [
+      "9"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 9,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_7",
+    "role_behavior" : [
+      "1,4,0",
+      "3,1,1",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "10"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 10,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_8",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "11"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 11,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_9",
+    "role_behavior" : [
+      "1,4,1",
+      "3,4,0"
+    ],
+    "skip_id" : [
+      "12"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 12,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_10",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "13"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 13,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_11",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "14"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 14,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_12",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "15"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 15,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_13",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "16"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 16,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_14",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "17"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 17,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_15",
+    "role_behavior" : [
+      "1,4,1",
+      "3,4,0"
+    ],
+    "skip_id" : [
+      "18"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 18,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_16",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "19"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 19,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_17",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "20"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 20,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_18",
+    "role_behavior" : [
+      "1,4,1",
+      "3,4,0"
+    ],
+    "skip_id" : [
+      "21"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 21,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_19",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "22"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 22,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_20",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "23"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 23,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_21",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "24"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 24,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_22",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,0",
+      "1,8,1"
+    ],
+    "skip_id" : [
+      "25"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 25,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_23",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "26"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 26,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_24",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "27"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 27,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_25",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "28"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 28,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_26",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [
+      "29"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 4,
+    "scene_id" : 29,
+    "scene_pic" : 1,
+    "speaker_name" : "",
+    "chat_id" : "chat_27",
+    "role_behavior" : [
+      "1,4,0",
+      "3,4,1"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 30,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_28",
+    "role_behavior" : [
+      "1,1,0",
+      "1,4,1"
+    ],
+    "skip_id" : [
+      "31"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 31,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_29",
+    "role_behavior" : [
+      "1,4,0",
+      "2,1,1",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "32"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 32,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_30",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "33"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 33,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_31",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "34"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 34,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_32",
+    "role_behavior" : [
+      "1,4,1",
+      "2,4,0"
+    ],
+    "skip_id" : [
+      "35"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 35,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_33",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "36"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 36,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_34",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "37"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 37,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_35",
+    "role_behavior" : [
+      "1,4,1",
+      "2,4,0"
+    ],
+    "skip_id" : [
+      "38"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 38,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_36",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "39"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 39,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_37",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "40"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 40,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_38",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,0",
+      "1,8,1"
+    ],
+    "skip_id" : [
+      "41"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 41,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_39",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "42"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 42,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_40",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "43"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 43,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_41",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "44"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 44,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_42",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "45"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 45,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_43",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,0",
+      "1,8,1"
+    ],
+    "skip_id" : [
+      "46"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 46,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_44",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "47"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 47,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_45",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "48"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 48,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_46",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "49"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 49,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_47",
+    "role_behavior" : [
+      "1,4,0",
+      "2,4,0",
+      "1,14"
+    ],
+    "skip_id" : [
+      "50"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 50,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_48",
+    "role_behavior" : [
+      "1,2,0",
+      "2,2,1",
+      "5,1,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "51"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 51,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_49",
+    "role_behavior" : [
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "52"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 52,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_50",
+    "role_behavior" : [
+      "5,4,0",
+      "6,1,1",
+      "6,4,1"
+    ],
+    "skip_id" : [
+      "53"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 53,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_51",
+    "role_behavior" : [
+      "6,4,0",
+      "6,2,1",
+      "5,4,0",
+      "5,2,0",
+      "1,1,0",
+      "1,4,1"
+    ],
+    "skip_id" : [
+      "54"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 54,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_52",
+    "role_behavior" : [
+      "2,1,1",
+      "2,4,1",
+      "1,4,0"
+    ],
+    "skip_id" : [
+      "55"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 55,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_53",
+    "role_behavior" : [
+      "2,2,1",
+      "1,2,0",
+      "6,1,1",
+      "6,4,1",
+      "2,4,0",
+      "1,4,0"
+    ],
+    "skip_id" : [
+      "56"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 56,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_54",
+    "role_behavior" : [
+      "5,1,0",
+      "5,4,1",
+      "6,4,0"
+    ],
+    "skip_id" : [
+      "57"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 57,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_55",
+    "role_behavior" : [
+      "5,4,1",
+      "6,4,0"
+    ],
+    "skip_id" : [
+      "58"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 58,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_56",
+    "role_behavior" : [
+      "5,4,1",
+      "6,4,0"
+    ],
+    "skip_id" : [
+      "59"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 59,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_57",
+    "role_behavior" : [
+      "5,4,1",
+      "6,4,0"
+    ],
+    "skip_id" : [
+      "60"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 60,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_58",
+    "role_behavior" : [
+      "6,2,1",
+      "1,1,1",
+      "1,4,1",
+      "5,4,0",
+      "6,4,0"
+    ],
+    "skip_id" : [
+      "61"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 61,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_59",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "62"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 62,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_60",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "63"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 63,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_61",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "64"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 64,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_62",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "65"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 65,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_63",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "66"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 66,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_64",
+    "role_behavior" : [
+      "1,2,1",
+      "5,2,0",
+      "2,1,1",
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "67"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 67,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_65",
+    "role_behavior" : [
+      "2,4,1"
+    ],
+    "skip_id" : [
+      "68"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 68,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_66",
+    "role_behavior" : [
+      "1,1,0",
+      "1,8,0",
+      "2,4,0"
+    ],
+    "skip_id" : [
+      "69"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 69,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_67",
+    "role_behavior" : [
+      "1,2,0",
+      "2,2,1",
+      "5,1,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "70"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 70,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_68",
+    "role_behavior" : [
+      "6,1,1",
+      "6,4,1",
+      "5,4,0"
+    ],
+    "skip_id" : [
+      "71"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 71,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_69",
+    "role_behavior" : [
+      "6,2,1",
+      "5,2,0",
+      "1,1,0",
+      "1,4,1"
+    ],
+    "skip_id" : [
+      "72"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 5,
+    "scene_id" : 72,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1103"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 6,
+    "scene_id" : 73,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_70",
+    "role_behavior" : [
+      "5,1,0",
+      "1,1,1",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "74"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 6,
+    "scene_id" : 74,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_71",
+    "role_behavior" : [
+      "1,4,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "75"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 6,
+    "scene_id" : 75,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_72",
+    "role_behavior" : [
+      "1,4,1",
+      "5,4,0"
+    ],
+    "skip_id" : [
+      "76"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 6,
+    "scene_id" : 76,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_73",
+    "role_behavior" : [
+      "1,4,1",
+      "5,4,0"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 77,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_74",
+    "role_behavior" : [],
+    "skip_id" : [
+      "78"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 78,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_75",
+    "role_behavior" : [],
+    "skip_id" : [
+      "79"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 79,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_76",
+    "role_behavior" : [],
+    "skip_id" : [
+      "80"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 80,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_77",
+    "role_behavior" : [],
+    "skip_id" : [
+      "81"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 81,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_78",
+    "role_behavior" : [],
+    "skip_id" : [
+      "82"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 82,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_79",
+    "role_behavior" : [],
+    "skip_id" : [
+      "83"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 83,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_80",
+    "role_behavior" : [],
+    "skip_id" : [
+      "84"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 84,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_81",
+    "role_behavior" : [],
+    "skip_id" : [
+      "85"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 85,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_82",
+    "role_behavior" : [],
+    "skip_id" : [
+      "86"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 86,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_83",
+    "role_behavior" : [],
+    "skip_id" : [
+      "87"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 87,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_84",
+    "role_behavior" : [],
+    "skip_id" : [
+      "88"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 88,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_85",
+    "role_behavior" : [],
+    "skip_id" : [
+      "89"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 89,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_86",
+    "role_behavior" : [],
+    "skip_id" : [
+      "90"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 90,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_87",
+    "role_behavior" : [],
+    "skip_id" : [
+      "91"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 91,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_88",
+    "role_behavior" : [],
+    "skip_id" : [
+      "92"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 92,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_89",
+    "role_behavior" : [],
+    "skip_id" : [
+      "93"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 93,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_90",
+    "role_behavior" : [],
+    "skip_id" : [
+      "94"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 94,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_91",
+    "role_behavior" : [],
+    "skip_id" : [
+      "95"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 95,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_92",
+    "role_behavior" : [],
+    "skip_id" : [
+      "96"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 96,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_93",
+    "role_behavior" : [],
+    "skip_id" : [
+      "97"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 97,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_94",
+    "role_behavior" : [],
+    "skip_id" : [
+      "98"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 7,
+    "scene_id" : 98,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1104"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 99,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_95",
+    "role_behavior" : [],
+    "skip_id" : [
+      "100"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 100,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_96",
+    "role_behavior" : [],
+    "skip_id" : [
+      "101"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 101,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_97",
+    "role_behavior" : [],
+    "skip_id" : [
+      "102"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 102,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_98",
+    "role_behavior" : [],
+    "skip_id" : [
+      "103"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 103,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_99",
+    "role_behavior" : [],
+    "skip_id" : [
+      "104"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 104,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_100",
+    "role_behavior" : [],
+    "skip_id" : [
+      "105"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 105,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_101",
+    "role_behavior" : [],
+    "skip_id" : [
+      "106"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 106,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_102",
+    "role_behavior" : [],
+    "skip_id" : [
+      "107"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 107,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_103",
+    "role_behavior" : [],
+    "skip_id" : [
+      "108"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 108,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_104",
+    "role_behavior" : [],
+    "skip_id" : [
+      "109"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 8,
+    "scene_id" : 109,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_105",
+    "role_behavior" : [],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 110,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_106",
+    "role_behavior" : [],
+    "skip_id" : [
+      "111"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 111,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_107",
+    "role_behavior" : [],
+    "skip_id" : [
+      "112"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 112,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_108",
+    "role_behavior" : [],
+    "skip_id" : [
+      "113"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 113,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_109",
+    "role_behavior" : [],
+    "skip_id" : [
+      "114"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 114,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_110",
+    "role_behavior" : [],
+    "skip_id" : [
+      "115"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 115,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_111",
+    "role_behavior" : [],
+    "skip_id" : [
+      "116"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 116,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_112",
+    "role_behavior" : [],
+    "skip_id" : [
+      "117"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 117,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_113",
+    "role_behavior" : [],
+    "skip_id" : [
+      "118"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 118,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_114",
+    "role_behavior" : [],
+    "skip_id" : [
+      "119"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 119,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_115",
+    "role_behavior" : [],
+    "skip_id" : [
+      "120"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 120,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_116",
+    "role_behavior" : [],
+    "skip_id" : [
+      "121"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 121,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_117",
+    "role_behavior" : [],
+    "skip_id" : [
+      "122"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 122,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_118",
+    "role_behavior" : [],
+    "skip_id" : [
+      "123"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 123,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_119",
+    "role_behavior" : [],
+    "skip_id" : [
+      "124"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 9,
+    "scene_id" : 124,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1105"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 125,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_120",
+    "role_behavior" : [],
+    "skip_id" : [
+      "126"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 126,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_121",
+    "role_behavior" : [],
+    "skip_id" : [
+      "127"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 127,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_122",
+    "role_behavior" : [],
+    "skip_id" : [
+      "128"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 128,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_123",
+    "role_behavior" : [],
+    "skip_id" : [
+      "129"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 129,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_124",
+    "role_behavior" : [],
+    "skip_id" : [
+      "130"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 10,
+    "scene_id" : 130,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_125",
+    "role_behavior" : [],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 131,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_126",
+    "role_behavior" : [],
+    "skip_id" : [
+      "132"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 132,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_127",
+    "role_behavior" : [],
+    "skip_id" : [
+      "133"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 133,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_128",
+    "role_behavior" : [],
+    "skip_id" : [
+      "134"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 134,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_129",
+    "role_behavior" : [],
+    "skip_id" : [
+      "135"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 135,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_130",
+    "role_behavior" : [],
+    "skip_id" : [
+      "136"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 136,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_131",
+    "role_behavior" : [],
+    "skip_id" : [
+      "137"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 137,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_132",
+    "role_behavior" : [],
+    "skip_id" : [
+      "138"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 138,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_133",
+    "role_behavior" : [],
+    "skip_id" : [
+      "139"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 139,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_134",
+    "role_behavior" : [],
+    "skip_id" : [
+      "140"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 140,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_135",
+    "role_behavior" : [],
+    "skip_id" : [
+      "141"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 141,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_136",
+    "role_behavior" : [],
+    "skip_id" : [
+      "142"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 142,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_137",
+    "role_behavior" : [],
+    "skip_id" : [
+      "143"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 143,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_138",
+    "role_behavior" : [],
+    "skip_id" : [
+      "144"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 144,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_139",
+    "role_behavior" : [],
+    "skip_id" : [
+      "145"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 145,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_140",
+    "role_behavior" : [],
+    "skip_id" : [
+      "146"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 11,
+    "scene_id" : 146,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1106"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 12,
+    "scene_id" : 147,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_141",
+    "role_behavior" : [],
+    "skip_id" : [
+      "148"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 12,
+    "scene_id" : 148,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_142",
+    "role_behavior" : [],
+    "skip_id" : [
+      "149"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 12,
+    "scene_id" : 149,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_143",
+    "role_behavior" : [],
+    "skip_id" : [
+      "150"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 12,
+    "scene_id" : 150,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_144",
+    "role_behavior" : [],
+    "skip_id" : [
+      "151"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 12,
+    "scene_id" : 151,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_145",
+    "role_behavior" : [],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 152,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_146",
+    "role_behavior" : [],
+    "skip_id" : [
+      "153"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 153,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_147",
+    "role_behavior" : [],
+    "skip_id" : [
+      "154"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 154,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_148",
+    "role_behavior" : [],
+    "skip_id" : [
+      "155"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 155,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_149",
+    "role_behavior" : [],
+    "skip_id" : [
+      "156"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 156,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_150",
+    "role_behavior" : [],
+    "skip_id" : [
+      "157"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 157,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_151",
+    "role_behavior" : [],
+    "skip_id" : [
+      "158"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 158,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_152",
+    "role_behavior" : [],
+    "skip_id" : [
+      "159"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 159,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_153",
+    "role_behavior" : [],
+    "skip_id" : [
+      "160"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 160,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_154",
+    "role_behavior" : [],
+    "skip_id" : [
+      "161"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 161,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_155",
+    "role_behavior" : [],
+    "skip_id" : [
+      "162"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 162,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_156",
+    "role_behavior" : [],
+    "skip_id" : [
+      "163"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 163,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_157",
+    "role_behavior" : [],
+    "skip_id" : [
+      "164"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 164,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_158",
+    "role_behavior" : [],
+    "skip_id" : [
+      "165"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 165,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_159",
+    "role_behavior" : [],
+    "skip_id" : [
+      "166"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 166,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_160",
+    "role_behavior" : [],
+    "skip_id" : [
+      "167"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 167,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_161",
+    "role_behavior" : [],
+    "skip_id" : [
+      "168"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 168,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_162",
+    "role_behavior" : [],
+    "skip_id" : [
+      "169"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 13,
+    "scene_id" : 169,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1107"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 170,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_163",
+    "role_behavior" : [],
+    "skip_id" : [
+      "171"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 171,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_164",
+    "role_behavior" : [],
+    "skip_id" : [
+      "172"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 172,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_165",
+    "role_behavior" : [],
+    "skip_id" : [
+      "173"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 173,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_166",
+    "role_behavior" : [],
+    "skip_id" : [
+      "174"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 174,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_167",
+    "role_behavior" : [],
+    "skip_id" : [
+      "175"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 175,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_168",
+    "role_behavior" : [],
+    "skip_id" : [
+      "176"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 176,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_169",
+    "role_behavior" : [],
+    "skip_id" : [
+      "177"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 177,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_170",
+    "role_behavior" : [],
+    "skip_id" : [
+      "178"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 14,
+    "scene_id" : 178,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_171",
+    "role_behavior" : [],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 15,
+    "scene_id" : 179,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_172",
+    "role_behavior" : [],
+    "skip_id" : [
+      "180"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 15,
+    "scene_id" : 180,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_173",
+    "role_behavior" : [],
+    "skip_id" : [
+      "181"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 15,
+    "scene_id" : 181,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,1108"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 182,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_174",
+    "role_behavior" : [
+      "5,1,0",
+      "5,4,1"
+    ],
+    "skip_id" : [
+      "183"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 183,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_175",
+    "role_behavior" : [
+      "2,1,1",
+      "2,4,1",
+      "5,4,0"
+    ],
+    "skip_id" : [
+      "184"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 184,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_176",
+    "role_behavior" : [
+      "5,4,1",
+      "2,4,0"
+    ],
+    "skip_id" : [
+      "185"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 185,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_177",
+    "role_behavior" : [
+      "3,1,1",
+      "3,4,1",
+      "5,4,0,2,4,0"
+    ],
+    "skip_id" : [
+      "186"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 186,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_178",
+    "role_behavior" : [
+      "1,1,1",
+      "4,1,0"
+    ],
+    "skip_id" : [
+      "187"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 187,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_179",
+    "role_behavior" : [],
+    "skip_id" : [
+      "188"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 188,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_180",
+    "role_behavior" : [],
+    "skip_id" : [
+      "189"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 189,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_181",
+    "role_behavior" : [],
+    "skip_id" : [
+      "190"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 190,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_182",
+    "role_behavior" : [],
+    "skip_id" : [
+      "191"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 191,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_183",
+    "role_behavior" : [],
+    "skip_id" : [
+      "192"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 192,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_184",
+    "role_behavior" : [],
+    "skip_id" : [
+      "193"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 193,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_185",
+    "role_behavior" : [],
+    "skip_id" : [
+      "194"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 194,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_186",
+    "role_behavior" : [],
+    "skip_id" : [
+      "195"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 195,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_187",
+    "role_behavior" : [],
+    "skip_id" : [
+      "196"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 196,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_188",
+    "role_behavior" : [],
+    "skip_id" : [
+      "197"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 197,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_189",
+    "role_behavior" : [],
+    "skip_id" : [
+      "198"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 198,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_190",
+    "role_behavior" : [],
+    "skip_id" : [
+      "199"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 199,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_191",
+    "role_behavior" : [],
+    "skip_id" : [
+      "200"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 200,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_192",
+    "role_behavior" : [],
+    "skip_id" : [
+      "201"
+    ],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 16,
+    "scene_id" : 201,
+    "scene_pic" : 2,
+    "speaker_name" : "",
+    "chat_id" : "chat_193",
+    "role_behavior" : [],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 17,
+    "scene_id" : 202,
+    "scene_pic" : 0,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,2101"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 18,
+    "scene_id" : 203,
+    "scene_pic" : 0,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,2102"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 19,
+    "scene_id" : 204,
+    "scene_pic" : 0,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,2103"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  },
+  {
+    "group_id" : 20,
+    "scene_id" : 205,
+    "scene_pic" : 0,
+    "speaker_name" : "",
+    "chat_id" : "",
+    "role_behavior" : [
+      "0,11,2104"
+    ],
+    "skip_id" : [],
+    "chat_period" : 0.0,
+    "continue_time" : 0.0,
+    "bgm" : "",
+    "item_show" : 0,
+    "item_show_pos" : 0,
+    "Choice_position" : 0
+  }
+]

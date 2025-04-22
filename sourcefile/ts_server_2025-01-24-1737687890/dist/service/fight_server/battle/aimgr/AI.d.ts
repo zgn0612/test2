@@ -1,0 +1,33 @@
+import { DcgProto } from "../../cmn/proto/protoMsg";
+import { AIRoot } from "./AIRoot";
+export declare class AI {
+    private root;
+    private pChoose;
+    private pDefSel;
+    private pOption;
+    private pActive;
+    private pIfChange;
+    private aiPhaseMain;
+    private aiPhaseForst;
+    private gmList;
+    constructor(root: AIRoot);
+    RunRoundStartAI(): void;
+    Execute(): void;
+    private ExecutePhaseForsterAI;
+    private ExecutePhaseMainAI;
+    private ExecutePlayerChooseAI;
+    private GetFirstAiChoose;
+    private ExecuteDefenseSelectAI;
+    private GetDefaultDefenseSelect;
+    private ExecuteSelectOptionAI;
+    private GetDefaultOption;
+    private ExecutePlayerSelectActivateAI;
+    private GetEffectActivateCmd;
+    SetPlayerChooseData(data: DcgProto.IS_PlayerChoose): void;
+    SetPlayerDefenseSelectData(data: DcgProto.IS_PlayerDefenseSelect): void;
+    SetPlayerSelectOptionsData(data: DcgProto.IS_PlayerSelectOptions): void;
+    SetPlayerSelectEffectActivateChooseData(data: DcgProto.IS_PlayerSelectEffectActivate): void;
+    SetPlayerIfChangeCards(): void;
+    ResetPData(): void;
+    Clear(): void;
+}

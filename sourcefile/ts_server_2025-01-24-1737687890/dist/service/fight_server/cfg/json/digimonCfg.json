@@ -1,0 +1,922 @@
+[
+  {
+    "monster_id" : 610000,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610001,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_0",
+    "monster_desc" : "monster_desc_0",
+    "monster_pic_left" : [
+      "141_l001",
+      "141_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610001,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610002,
+    "card_exchange" : [
+      1
+    ],
+    "monster_name" : "monster_name_1",
+    "monster_desc" : "monster_desc_1",
+    "monster_pic_left" : [
+      "001_l001",
+      "001_l002"
+    ],
+    "monster_pic_right" : [
+      "001_r001",
+      "001_r002"
+    ],
+    "monster_icon" : "monster_icon_1"
+  },
+  {
+    "monster_id" : 610002,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610003,
+    "card_exchange" : [
+      2
+    ],
+    "monster_name" : "monster_name_2",
+    "monster_desc" : "monster_desc_2",
+    "monster_pic_left" : [
+      "002_l001",
+      "002_l002"
+    ],
+    "monster_pic_right" : [
+      "002_r001",
+      "002_r002"
+    ],
+    "monster_icon" : "monster_icon_2"
+  },
+  {
+    "monster_id" : 610003,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610004,
+    "card_exchange" : [
+      3
+    ],
+    "monster_name" : "monster_name_3",
+    "monster_desc" : "monster_desc_3",
+    "monster_pic_left" : [
+      "003_l001",
+      "003_l002"
+    ],
+    "monster_pic_right" : [
+      "003_r001",
+      "003_r002"
+    ],
+    "monster_icon" : "monster_icon_3"
+  },
+  {
+    "monster_id" : 610004,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610005,
+    "card_exchange" : [
+      4
+    ],
+    "monster_name" : "monster_name_4",
+    "monster_desc" : "monster_desc_4",
+    "monster_pic_left" : [
+      "004_l001",
+      "004_l002"
+    ],
+    "monster_pic_right" : [
+      "004_r001",
+      "004_r002"
+    ],
+    "monster_icon" : "monster_icon_4"
+  },
+  {
+    "monster_id" : 610005,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      5
+    ],
+    "monster_name" : "monster_name_5",
+    "monster_desc" : "monster_desc_5",
+    "monster_pic_left" : [
+      "005_l001",
+      "005_l002"
+    ],
+    "monster_pic_right" : [
+      "005_r001",
+      "005_r002"
+    ],
+    "monster_icon" : "monster_icon_5"
+  },
+  {
+    "monster_id" : 610006,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610007,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_6",
+    "monster_desc" : "monster_desc_6",
+    "monster_pic_left" : [
+      "142_l001",
+      "142_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610007,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610008,
+    "card_exchange" : [
+      6
+    ],
+    "monster_name" : "monster_name_7",
+    "monster_desc" : "monster_desc_7",
+    "monster_pic_left" : [
+      "006_l001",
+      "006_l002"
+    ],
+    "monster_pic_right" : [
+      "006_r001",
+      "006_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610008,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610009,
+    "card_exchange" : [
+      7
+    ],
+    "monster_name" : "monster_name_8",
+    "monster_desc" : "monster_desc_8",
+    "monster_pic_left" : [
+      "007_l001",
+      "007_l002"
+    ],
+    "monster_pic_right" : [
+      "007_r001",
+      "007_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610009,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610010,
+    "card_exchange" : [
+      8
+    ],
+    "monster_name" : "monster_name_9",
+    "monster_desc" : "monster_desc_9",
+    "monster_pic_left" : [
+      "008_l001",
+      "008_l002"
+    ],
+    "monster_pic_right" : [
+      "008_r001",
+      "008_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610010,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610011,
+    "card_exchange" : [
+      9
+    ],
+    "monster_name" : "monster_name_10",
+    "monster_desc" : "monster_desc_10",
+    "monster_pic_left" : [
+      "009_l001",
+      "009_l002"
+    ],
+    "monster_pic_right" : [
+      "009_r001",
+      "009_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610011,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      10
+    ],
+    "monster_name" : "monster_name_11",
+    "monster_desc" : "monster_desc_11",
+    "monster_pic_left" : [
+      "010_l001",
+      "010_l002"
+    ],
+    "monster_pic_right" : [
+      "010_r001",
+      "010_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610012,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610013,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_12",
+    "monster_desc" : "monster_desc_12",
+    "monster_pic_left" : [
+      "143_l001",
+      "143_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610013,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610014,
+    "card_exchange" : [
+      11
+    ],
+    "monster_name" : "monster_name_13",
+    "monster_desc" : "monster_desc_13",
+    "monster_pic_left" : [
+      "011_l001",
+      "011_l002"
+    ],
+    "monster_pic_right" : [
+      "011_r001",
+      "011_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610014,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610015,
+    "card_exchange" : [
+      12
+    ],
+    "monster_name" : "monster_name_14",
+    "monster_desc" : "monster_desc_14",
+    "monster_pic_left" : [
+      "012_l001",
+      "012_l002"
+    ],
+    "monster_pic_right" : [
+      "012_r001",
+      "012_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610015,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610016,
+    "card_exchange" : [
+      13
+    ],
+    "monster_name" : "monster_name_15",
+    "monster_desc" : "monster_desc_15",
+    "monster_pic_left" : [
+      "013_l001",
+      "013_l002"
+    ],
+    "monster_pic_right" : [
+      "013_r001",
+      "013_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610016,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610017,
+    "card_exchange" : [
+      14
+    ],
+    "monster_name" : "monster_name_16",
+    "monster_desc" : "monster_desc_16",
+    "monster_pic_left" : [
+      "014_l001",
+      "014_l002"
+    ],
+    "monster_pic_right" : [
+      "014_r001",
+      "014_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610017,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      15
+    ],
+    "monster_name" : "monster_name_17",
+    "monster_desc" : "monster_desc_17",
+    "monster_pic_left" : [
+      "015_l001",
+      "015_l002"
+    ],
+    "monster_pic_right" : [
+      "015_r001",
+      "015_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610018,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610019,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_18",
+    "monster_desc" : "monster_desc_18",
+    "monster_pic_left" : [
+      "144_l001",
+      "144_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610019,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610020,
+    "card_exchange" : [
+      16
+    ],
+    "monster_name" : "monster_name_19",
+    "monster_desc" : "monster_desc_19",
+    "monster_pic_left" : [
+      "016_l001",
+      "016_l002"
+    ],
+    "monster_pic_right" : [
+      "016_r001",
+      "016_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610020,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610021,
+    "card_exchange" : [
+      17
+    ],
+    "monster_name" : "monster_name_20",
+    "monster_desc" : "monster_desc_20",
+    "monster_pic_left" : [
+      "017_l001",
+      "017_l002"
+    ],
+    "monster_pic_right" : [
+      "017_r001",
+      "017_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610021,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610022,
+    "card_exchange" : [
+      18
+    ],
+    "monster_name" : "monster_name_21",
+    "monster_desc" : "monster_desc_21",
+    "monster_pic_left" : [
+      "018_l001",
+      "018_l002"
+    ],
+    "monster_pic_right" : [
+      "018_r001",
+      "018_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610022,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610023,
+    "card_exchange" : [
+      19
+    ],
+    "monster_name" : "monster_name_22",
+    "monster_desc" : "monster_desc_22",
+    "monster_pic_left" : [
+      "019_l001",
+      "019_l002"
+    ],
+    "monster_pic_right" : [
+      "019_r001",
+      "019_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610023,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      20
+    ],
+    "monster_name" : "monster_name_23",
+    "monster_desc" : "monster_desc_23",
+    "monster_pic_left" : [
+      "020_l001",
+      "020_l002"
+    ],
+    "monster_pic_right" : [
+      "020_r001",
+      "020_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610024,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610025,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_24",
+    "monster_desc" : "monster_desc_24",
+    "monster_pic_left" : [
+      "145_l001",
+      "145_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610025,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610026,
+    "card_exchange" : [
+      21
+    ],
+    "monster_name" : "monster_name_25",
+    "monster_desc" : "monster_desc_25",
+    "monster_pic_left" : [
+      "021_l001",
+      "021_l002"
+    ],
+    "monster_pic_right" : [
+      "021_r001",
+      "021_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610026,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610027,
+    "card_exchange" : [
+      22
+    ],
+    "monster_name" : "monster_name_26",
+    "monster_desc" : "monster_desc_26",
+    "monster_pic_left" : [
+      "022_l001",
+      "022_l002"
+    ],
+    "monster_pic_right" : [
+      "022_r001",
+      "022_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610027,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610028,
+    "card_exchange" : [
+      23
+    ],
+    "monster_name" : "monster_name_27",
+    "monster_desc" : "monster_desc_27",
+    "monster_pic_left" : [
+      "023_l001",
+      "023_l002"
+    ],
+    "monster_pic_right" : [
+      "023_r001",
+      "023_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610028,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610029,
+    "card_exchange" : [
+      24
+    ],
+    "monster_name" : "monster_name_28",
+    "monster_desc" : "monster_desc_28",
+    "monster_pic_left" : [
+      "024_l001",
+      "024_l002"
+    ],
+    "monster_pic_right" : [
+      "024_r001",
+      "024_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610029,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      25
+    ],
+    "monster_name" : "monster_name_29",
+    "monster_desc" : "monster_desc_29",
+    "monster_pic_left" : [
+      "025_l001",
+      "025_l002"
+    ],
+    "monster_pic_right" : [
+      "025_r001",
+      "025_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610030,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610031,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_30",
+    "monster_desc" : "monster_desc_30",
+    "monster_pic_left" : [
+      "146_l001",
+      "146_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610031,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610032,
+    "card_exchange" : [
+      26
+    ],
+    "monster_name" : "monster_name_31",
+    "monster_desc" : "monster_desc_31",
+    "monster_pic_left" : [
+      "026_l001",
+      "026_l002"
+    ],
+    "monster_pic_right" : [
+      "026_r001",
+      "026_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610032,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610033,
+    "card_exchange" : [
+      27
+    ],
+    "monster_name" : "monster_name_32",
+    "monster_desc" : "monster_desc_32",
+    "monster_pic_left" : [
+      "027_l001",
+      "027_l002"
+    ],
+    "monster_pic_right" : [
+      "027_r001",
+      "027_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610033,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610034,
+    "card_exchange" : [
+      28
+    ],
+    "monster_name" : "monster_name_33",
+    "monster_desc" : "monster_desc_33",
+    "monster_pic_left" : [
+      "028_l001",
+      "028_l002"
+    ],
+    "monster_pic_right" : [
+      "028_r001",
+      "028_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610034,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610035,
+    "card_exchange" : [
+      29
+    ],
+    "monster_name" : "monster_name_34",
+    "monster_desc" : "monster_desc_34",
+    "monster_pic_left" : [
+      "029_l001",
+      "029_l002"
+    ],
+    "monster_pic_right" : [
+      "029_r001",
+      "029_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610035,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      30
+    ],
+    "monster_name" : "monster_name_35",
+    "monster_desc" : "monster_desc_35",
+    "monster_pic_left" : [
+      "030_l001",
+      "030_l002"
+    ],
+    "monster_pic_right" : [
+      "030_r001",
+      "030_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610036,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610037,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_36",
+    "monster_desc" : "monster_desc_36",
+    "monster_pic_left" : [
+      "147_l001",
+      "147_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610037,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610038,
+    "card_exchange" : [
+      31
+    ],
+    "monster_name" : "monster_name_37",
+    "monster_desc" : "monster_desc_37",
+    "monster_pic_left" : [
+      "034_l001",
+      "034_l002"
+    ],
+    "monster_pic_right" : [
+      "034_r001",
+      "034_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610038,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610039,
+    "card_exchange" : [
+      32
+    ],
+    "monster_name" : "monster_name_38",
+    "monster_desc" : "monster_desc_38",
+    "monster_pic_left" : [
+      "035_l001",
+      "035_l002"
+    ],
+    "monster_pic_right" : [
+      "035_r001",
+      "035_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610039,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610040,
+    "card_exchange" : [
+      33
+    ],
+    "monster_name" : "monster_name_39",
+    "monster_desc" : "monster_desc_39",
+    "monster_pic_left" : [
+      "036_l001",
+      "036_l002"
+    ],
+    "monster_pic_right" : [
+      "036_r001",
+      "036_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610040,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610041,
+    "card_exchange" : [
+      34
+    ],
+    "monster_name" : "monster_name_40",
+    "monster_desc" : "monster_desc_40",
+    "monster_pic_left" : [
+      "037_l001",
+      "037_l002"
+    ],
+    "monster_pic_right" : [
+      "037_r001",
+      "037_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610041,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      35
+    ],
+    "monster_name" : "monster_name_41",
+    "monster_desc" : "monster_desc_41",
+    "monster_pic_left" : [
+      "038_l001",
+      "038_l002"
+    ],
+    "monster_pic_right" : [
+      "038_r001",
+      "038_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610042,
+    "level" : 1,
+    "exp" : 50,
+    "levelup_id" : 610043,
+    "card_exchange" : [],
+    "monster_name" : "monster_name_42",
+    "monster_desc" : "monster_desc_42",
+    "monster_pic_left" : [
+      "148_l001",
+      "148_l002"
+    ],
+    "monster_pic_right" : [],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610043,
+    "level" : 2,
+    "exp" : 100,
+    "levelup_id" : 610044,
+    "card_exchange" : [
+      36
+    ],
+    "monster_name" : "monster_name_43",
+    "monster_desc" : "monster_desc_43",
+    "monster_pic_left" : [
+      "039_l001",
+      "039_l002"
+    ],
+    "monster_pic_right" : [
+      "039_r001",
+      "039_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610044,
+    "level" : 3,
+    "exp" : 150,
+    "levelup_id" : 610045,
+    "card_exchange" : [
+      37
+    ],
+    "monster_name" : "monster_name_44",
+    "monster_desc" : "monster_desc_44",
+    "monster_pic_left" : [
+      "040_l001",
+      "040_l002"
+    ],
+    "monster_pic_right" : [
+      "040_r001",
+      "040_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610045,
+    "level" : 4,
+    "exp" : 200,
+    "levelup_id" : 610046,
+    "card_exchange" : [
+      38
+    ],
+    "monster_name" : "monster_name_45",
+    "monster_desc" : "monster_desc_45",
+    "monster_pic_left" : [
+      "041_l001",
+      "041_l002"
+    ],
+    "monster_pic_right" : [
+      "041_r001",
+      "041_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610046,
+    "level" : 5,
+    "exp" : 250,
+    "levelup_id" : 610047,
+    "card_exchange" : [
+      39
+    ],
+    "monster_name" : "monster_name_46",
+    "monster_desc" : "monster_desc_46",
+    "monster_pic_left" : [
+      "042_l001",
+      "042_l002"
+    ],
+    "monster_pic_right" : [
+      "042_r001",
+      "042_r002"
+    ],
+    "monster_icon" : ""
+  },
+  {
+    "monster_id" : 610047,
+    "level" : 6,
+    "exp" : 0,
+    "levelup_id" : 0,
+    "card_exchange" : [
+      40
+    ],
+    "monster_name" : "monster_name_47",
+    "monster_desc" : "monster_desc_47",
+    "monster_pic_left" : [
+      "043_l001",
+      "043_l002"
+    ],
+    "monster_pic_right" : [
+      "043_r001",
+      "043_r002"
+    ],
+    "monster_icon" : ""
+  }
+]

@@ -1,0 +1,25 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DtEnum_1 = require("../../Data/DtEnum");
+const DtFsmAttackEnum_1 = require("../../Fsm/Attack/DtFsmAttackEnum");
+const DtEffect_1 = require("../Effect/DtEffect");
+const DtEffectCreator_1 = require("../Effect/DtEffectCreator");
+const DtEffectType_1 = require("../Effect/DtEffectType");
+const DtConTriggerAttackOver_1 = require("../Effect/TriggerCondition/DtConTriggerAttackOver");
+class EC_EX1_062_2 extends DtEffectCreator_1.DtEffectCreator {
+    SetEffect() {
+        let effect = this.GetNewEffect();
+        effect.SetTriggerType(DtEffectType_1.DtEffectType.TriggerAttackOver);
+        let ctri = new DtConTriggerAttackOver_1.DtConTriggerAttackOver(DtEnum_1.DtEffectRoundValid.Both, DtFsmAttackEnum_1.DtFsmAttackType.None);
+        let ccard = ctri.SetAtkCardCon(DtEnum_1.DtCardType.Monster, DtEnum_1.DtCardColor.None, DtEnum_1.DtSkillTargetToPlayer.Self);
+        ccard.SetCondition(this, (card) => { return card == this.parent; });
+        effect.SetTriggerCondition(ctri);
+        effect.SetEffect(this.Effect, null);
+    }
+    Effect() {
+        this.GetManager().OnCardDestroy(this.parent, this.parent);
+        return DtEffect_1.DtEffectResult.Next;
+    }
+}
+exports.default = EC_EX1_062_2;
+//# sourceMappingURL=EC_EX1_062_2.js.map

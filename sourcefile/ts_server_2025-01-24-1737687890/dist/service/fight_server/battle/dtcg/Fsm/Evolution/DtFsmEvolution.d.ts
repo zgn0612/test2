@@ -1,0 +1,30 @@
+import { DtBuffSpecialEvoCondition, DtBuffSpecialEvoSeen } from "../../Card/Buff/DtBuffSpecialEvoCondition";
+import { DtCardBase } from "../../Card/DtCardBase";
+import { DtEvolutionType } from "../../Data/DtEnum";
+import { DtPlayer } from "../../Player/DtPlayer";
+import { DtFsmBaseMachine } from "../Base/DtFsmBaseMachine";
+import { DtFsmEvolution_BaseState } from "./States/DtFsmEvolution_BaseState";
+export declare class DtFsmEvolution extends DtFsmBaseMachine<DtFsmEvolution_BaseState> {
+    player: DtPlayer;
+    type: DtEvolutionType;
+    evoCard: DtCardBase;
+    oriCard: DtCardBase;
+    bottomCard: DtCardBase;
+    private cost;
+    private changeCost;
+    EvoOverCallBack: (fsmEvo: DtFsmEvolution) => void;
+    evoBuff: DtBuffSpecialEvoCondition;
+    private isNoCostEvo;
+    other: number;
+    protected InitAddStates(): void;
+    IsRunning(): boolean;
+    SetEvo(player: DtPlayer, evoCard: DtCardBase, oriCard: DtCardBase, cost: number): void;
+    SetFusionEvo(player: DtPlayer, evoCard: DtCardBase, topCard: DtCardBase, bottomCard: DtCardBase, cost: number): void;
+    SetNoCost(): void;
+    SetChangeCost(cost: number): void;
+    SetCost(cost: number): void;
+    GetCost(): number;
+    Clear(): void;
+    GetBuffSeen(): DtBuffSpecialEvoSeen;
+    ShowLog(): void;
+}

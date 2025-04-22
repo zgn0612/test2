@@ -1,0 +1,11 @@
+import DtEnhanceEffectCreatorts from "../Effect/DtEnhanceEffectCreatorts";
+import { DtSkillCardFiterMachine } from "../Skill/DtSkillCardFilter/DtSkillCardFiterMachine";
+import { DtSkillCardOperateMachine } from "../Skill/DtSkillCardOperate/DtSkillCardOperateMachine";
+export default class EC_EX1_030_1 extends DtEnhanceEffectCreatorts {
+    SetEffect(): void;
+    private Con;
+    private Effect;
+    private BuffCon;
+    protected OnCommonAreaSetFilter(mcFliter: DtSkillCardFiterMachine): void;
+    protected OnCommonAreaSetOperate(mcOperate: DtSkillCardOperateMachine): void;
+}

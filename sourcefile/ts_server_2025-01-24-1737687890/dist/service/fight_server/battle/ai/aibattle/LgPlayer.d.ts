@@ -1,0 +1,46 @@
+/// <reference types="long" />
+import { Long } from "../../../cmn/proto/Long";
+import { DcgProto } from "../../../cmn/proto/protoMsg";
+import { DtAreaType, DtBuffType } from "../../dtcg/Data/DtEnum";
+import { AIServerCammand } from "../ailogic/Atree/ADefine";
+import { AtreeRoot } from "../ailogic/Atree/AtreeRoot";
+import { LgArea } from "./LgArea";
+import { LgBattleScene } from "./LgBattleScene";
+import { LgCard } from "./LgCard";
+export declare class LgPlayer {
+    private parent;
+    PlayerId: Long;
+    private areaList;
+    private detailMsg;
+    playerBuffs: Array<number>;
+    ai_group_id: number;
+    IsAI: boolean;
+    private playerAI;
+    private startRoundAI;
+    constructor(parent: LgBattleScene, playerId: Long, AI: boolean);
+    UpdateDetail(msg: DcgProto.IS_PlayerBattleDetail): void;
+    ReconnectInit(reData: DcgProto.IS_ReconnectPlayer): void;
+    CreateCard(uid: Long): LgCard;
+    MoveCard(msg: DcgProto.IS_MoveCardMessage): LgCard;
+    UpdateCardDetail(msg: DcgProto.IS_UpdateCardDetails): void;
+    EvoCard(msg: DcgProto.IS_EvoDigimon): void;
+    DigimonDegenerate(msg: DcgProto.IS_DigimonDegenerate): void;
+    UpdateBattleCardInfo(data: DcgProto.IS_GameBattleCard[]): void;
+    UpdateHandCardInfo(data: DcgProto.IS_GameHandCard[]): void;
+    PlayerHasBuff(buff: DtBuffType): boolean;
+    FindCard(id: Long, areaType?: DtAreaType): LgCard;
+    GetArea(aret: DtAreaType): LgArea;
+    CanHatch(): boolean;
+    CanHatchOrHatchBattle(): boolean;
+    CheckCanEvoCard(card: LgCard): boolean;
+    HasCardWithCardCfgId(cfgId: number): boolean;
+    HasCardWithCardLv(lv: number): boolean;
+    GetOppPlayer(): LgPlayer;
+    GetEvoTopBattlePCard(oricarduid: Long): LgCard;
+    GetRoot(): LgBattleScene;
+    AIEvaluate(current: AIServerCammand): AIServerCammand;
+    GetPlayerAI(): AtreeRoot;
+    GetStartRoundAI(): AtreeRoot;
+    GetCardChooseAI(cardid: Long): AtreeRoot;
+    GetDefenseCount(): number;
+}

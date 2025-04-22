@@ -1,0 +1,22 @@
+name: 'etcd2'
+data-dir: './data'
+wal-log: './wal'
+snapshot-count: 10000
+heartbeat-interval: 100
+election-timeout: 1000
+listen-peer-urls: 'http://127.0.0.1:2480'
+listen-client-urls: 'http://127.0.0.1:2479'
+max-snapshots: 5
+max-wals: 5
+cors:
+initial-advertise-peer-urls: 'http://127.0.0.1:2480'
+advertise-client-urls: 'http://127.0.0.1:2479'
+initial-cluster: 'etcd1=http://127.0.0.1:2380,etcd2=http://127.0.0.1:2480'
+initial-cluster-token: 'etcd'
+initial-cluster-state: 'new'
+strict-reconfig-check: false
+enable-v2: true
+enable-pprof: true
+debug: false
+logger: zap
+log-outputs: [stderr]

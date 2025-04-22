@@ -1,0 +1,43 @@
+/// <reference types="long" />
+import { Long } from "../../../cmn/proto/Long";
+import { DcgProto } from "../../../cmn/proto/protoMsg";
+import { AIRoot } from "../../aimgr/AIRoot";
+import { DtBattlePhase } from "../../dtcg/Data/DtEnum";
+import { LgCard } from "./LgCard";
+import { LgPlayer } from "./LgPlayer";
+export declare class LgBattleScene {
+    protected root: AIRoot;
+    protected playerList: Array<LgPlayer>;
+    currentCost: number;
+    battleState: DtBattlePhase;
+    curRound: number;
+    curBattlePlayerId: Long;
+    curActionPlayerId: Long;
+    attacker: LgCard;
+    defenseer: LgCard;
+    Init(ai: AIRoot): void;
+    Battle_Msg_PlayerSceneEvent(protoMsg: DcgProto.IS_PlayerSceneEvent): void;
+    Battle_Msg_PlayerChoose(protoMsg: DcgProto.IS_PlayerChoose): void;
+    Battle_Msg_PlayerDefenseSelect(protoMsg: DcgProto.IS_PlayerDefenseSelect): void;
+    Battle_Msg_PlayerSelectOptions(protoMsg: DcgProto.IS_PlayerSelectOptions): void;
+    Battle_Msg_Player_Select_Effect_Activate(protoMsg: DcgProto.IS_PlayerSelectEffectActivate): void;
+    Battle_Msg_Detail(protoMsg: DcgProto.IS_BattleDetail): void;
+    Battle_Msg_ReconnectData(protoMsg: DcgProto.IS_ReconnectData): void;
+    Battle_Msg_BattleStartMsg(protoMsg: DcgProto.IS_BattleStartMsg): void;
+    Battle_Msg_SetBattlePhase(protoMsg: DcgProto.IS_SetBattlePhase): void;
+    Battle_Msg_DigimonSetCost(protoMsg: DcgProto.IS_DigimonSetCost): void;
+    Battle_Msg_MoveCardMessage(protoMsg: DcgProto.IS_MoveCardMessage): void;
+    Battle_Msg_EvoDigimon(protoMsg: DcgProto.IS_EvoDigimon): void;
+    Battle_Msg_UpdateCardDetails(protoMsg: DcgProto.IS_UpdateCardDetails): void;
+    Battle_Msg_Update_Game_Battle_Card_Info(protoMsg: DcgProto.IS_UpdateGameBattleCardInfo): void;
+    Battle_Msg_Digimon_Degenerate(protoMsg: DcgProto.IS_DigimonDegenerate): void;
+    Battle_Msg_Player_excavated(protoMsg: DcgProto.IS_PlayerExcavated): void;
+    Battle_Msg_GameOver(protoMsg: DcgProto.IS_GameOver): void;
+    Battle_Msg_Guess_Punch(data: DcgProto.IS_GuessFist[]): void;
+    Battle_Msg_Loading(data: DcgProto.IS_GuessFist[]): void;
+    Battle_Msg_ClientShow(protoMsg: DcgProto.IS_ClientShow): void;
+    GetPlayer(pid: Long): LgPlayer;
+    GetOppPlayer(pid: Long): LgPlayer;
+    Log(): void;
+    Clear(): void;
+}

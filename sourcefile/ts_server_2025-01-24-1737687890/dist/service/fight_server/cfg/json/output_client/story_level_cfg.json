@@ -1,0 +1,44 @@
+[
+  {
+    "chapter_id" : 1,
+    "level_id" : 1101,
+    "skip_id" : [
+      1102,
+      1201
+    ],
+    "level_name" : "level_name_1",
+    "reward" : 0
+  },
+  {
+    "chapter_id" : 1,
+    "level_id" : 1102,
+    "skip_id" : [
+      1103
+    ],
+    "level_name" : "level_name_2",
+    "reward" : 503000
+  },
+  {
+    "chapter_id" : 1,
+    "level_id" : 1103,
+    "skip_id" : [],
+    "level_name" : "level_name_3",
+    "reward" : 0
+  },
+  {
+    "chapter_id" : 1,
+    "level_id" : 1201,
+    "skip_id" : [
+      1202
+    ],
+    "level_name" : "level_name_4",
+    "reward" : 0
+  },
+  {
+    "chapter_id" : 1,
+    "level_id" : 1202,
+    "skip_id" : [],
+    "level_name" : "level_name_5",
+    "reward" : 503000
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "season_count" : 1,
+    "season_name" : "season_name_no1",
+    "start_time" : "2024-12-17 00:00:00",
+    "end_time" : "2025-03-17 23:59:59",
+    "banner_background" : "Pic_Rankseasonbanner01",
+    "banner_title" : "Pic_Rankseasonname01"
+  },
+  {
+    "id" : 2,
+    "season_count" : 2,
+    "season_name" : "season_name_no2",
+    "start_time" : "2025-03-18 00:00:00",
+    "end_time" : "2025-06-18 23:59:59",
+    "banner_background" : "Pic_Rankseasonbanner01",
+    "banner_title" : "Pic_Rankseasonname01"
+  }
+]

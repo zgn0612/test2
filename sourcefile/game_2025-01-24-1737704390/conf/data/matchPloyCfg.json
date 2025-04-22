@@ -1,0 +1,252 @@
+[
+  {
+    "id" : 1,
+    "mode" : 3,
+    "min_time" : 0,
+    "max_time" : 5,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 20,
+    "var_mode" : 1,
+    "var_acc" : 0,
+    "ddp_mode" : 1,
+    "ddp_acc" : 3
+  },
+  {
+    "id" : 2,
+    "mode" : 3,
+    "min_time" : 6,
+    "max_time" : 10,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 50,
+    "var_mode" : 1,
+    "var_acc" : 3,
+    "ddp_mode" : 1,
+    "ddp_acc" : 2
+  },
+  {
+    "id" : 3,
+    "mode" : 3,
+    "min_time" : 11,
+    "max_time" : 15,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 100,
+    "var_mode" : 1,
+    "var_acc" : 5,
+    "ddp_mode" : 1,
+    "ddp_acc" : 1
+  },
+  {
+    "id" : 4,
+    "mode" : 3,
+    "min_time" : 16,
+    "max_time" : 20,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 200,
+    "var_mode" : 0,
+    "var_acc" : 0,
+    "ddp_mode" : 0,
+    "ddp_acc" : 0
+  },
+  {
+    "id" : 5,
+    "mode" : 3,
+    "min_time" : 20,
+    "max_time" : 999999,
+    "streak_mode" : 0,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 0,
+    "elo_acc" : 0,
+    "var_mode" : 0,
+    "var_acc" : 0,
+    "ddp_mode" : 0,
+    "ddp_acc" : 0
+  },
+  {
+    "id" : 6,
+    "mode" : 1,
+    "min_time" : 0,
+    "max_time" : 2,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 20,
+    "var_mode" : 1,
+    "var_acc" : 0,
+    "ddp_mode" : 1,
+    "ddp_acc" : 3
+  },
+  {
+    "id" : 7,
+    "mode" : 1,
+    "min_time" : 3,
+    "max_time" : 4,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 50,
+    "var_mode" : 1,
+    "var_acc" : 3,
+    "ddp_mode" : 1,
+    "ddp_acc" : 2
+  },
+  {
+    "id" : 8,
+    "mode" : 1,
+    "min_time" : 5,
+    "max_time" : 6,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 100,
+    "var_mode" : 1,
+    "var_acc" : 5,
+    "ddp_mode" : 1,
+    "ddp_acc" : 1
+  },
+  {
+    "id" : 9,
+    "mode" : 1,
+    "min_time" : 7,
+    "max_time" : 8,
+    "streak_mode" : 1,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 1,
+    "elo_acc" : 200,
+    "var_mode" : 0,
+    "var_acc" : 0,
+    "ddp_mode" : 0,
+    "ddp_acc" : 0
+  },
+  {
+    "id" : 10,
+    "mode" : 1,
+    "min_time" : 9,
+    "max_time" : 999999,
+    "streak_mode" : 0,
+    "win_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-0"
+    ],
+    "loss_acc" : [
+      "3-0-0",
+      "5-1-0",
+      "7-1-0",
+      "9999-1-1"
+    ],
+    "elo_mode" : 0,
+    "elo_acc" : 0,
+    "var_mode" : 0,
+    "var_acc" : 0,
+    "ddp_mode" : 0,
+    "ddp_acc" : 0
+  }
+]

@@ -1,0 +1,990 @@
+[
+  {
+    "skillid" : 11507811,
+    "index" : 5,
+    "title" : "effect_txt_1",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11511111,
+    "index" : 5,
+    "title" : "effect_txt_2",
+    "option_desc" : [
+      "effect_txt_134",
+      "effect_txt_150"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11809012,
+    "index" : 5,
+    "title" : "effect_txt_3",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11703411,
+    "index" : 5,
+    "title" : "effect_txt_4",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11710211,
+    "index" : 5,
+    "title" : "effect_txt_5",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12003311,
+    "index" : 5,
+    "title" : "effect_txt_6",
+    "option_desc" : [],
+    "option_common" : "effect_txt_146"
+  },
+  {
+    "skillid" : 13001211,
+    "index" : 5,
+    "title" : "effect_txt_7",
+    "option_desc" : [
+      "effect_txt_135",
+      "effect_txt_151"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11001411,
+    "index" : 5,
+    "title" : "effect_txt_8",
+    "option_desc" : [
+      "effect_txt_136",
+      "effect_txt_137"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11001412,
+    "index" : 5,
+    "title" : "effect_txt_9",
+    "option_desc" : [
+      "effect_txt_136",
+      "effect_txt_137"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12001712,
+    "index" : 0,
+    "title" : "effect_txt_10",
+    "option_desc" : [
+      "effect_txt_138",
+      "effect_txt_152"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11902511,
+    "index" : 2,
+    "title" : "effect_txt_11",
+    "option_desc" : [
+      "effect_txt_148",
+      "effect_txt_149"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11908812,
+    "index" : 2,
+    "title" : "effect_txt_12",
+    "option_desc" : [
+      "effect_txt_148",
+      "effect_txt_149"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11903211,
+    "index" : 2,
+    "title" : "effect_txt_13",
+    "option_desc" : [
+      "effect_txt_148",
+      "effect_txt_149"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12009711,
+    "index" : 0,
+    "title" : "effect_txt_14",
+    "option_desc" : [
+      "effect_txt_148",
+      "effect_txt_149"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12004211,
+    "index" : 1,
+    "title" : "effect_txt_15",
+    "option_desc" : [
+      "effect_txt_139",
+      "effect_txt_153"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12011112,
+    "index" : 1,
+    "title" : "effect_txt_16",
+    "option_desc" : [],
+    "option_common" : "effect_txt_147"
+  },
+  {
+    "skillid" : 11908211,
+    "index" : 1,
+    "title" : "effect_txt_17",
+    "option_desc" : [
+      "effect_txt_140",
+      "effect_txt_161",
+      "effect_txt_154"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12100421,
+    "index" : 1,
+    "title" : "effect_txt_18",
+    "option_desc" : [
+      "effect_txt_141",
+      "effect_txt_155"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12105512,
+    "index" : 1,
+    "title" : "effect_txt_19",
+    "option_desc" : [
+      "effect_txt_142",
+      "effect_txt_156"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12110611,
+    "index" : 1,
+    "title" : "effect_txt_20",
+    "option_desc" : [
+      "effect_txt_143",
+      "effect_txt_157"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12110911,
+    "index" : 1,
+    "title" : "effect_txt_21",
+    "option_desc" : [
+      "effect_txt_144",
+      "effect_txt_158"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13203811,
+    "index" : 1,
+    "title" : "effect_txt_22",
+    "option_desc" : [
+      "effect_txt_145",
+      "effect_txt_159",
+      "effect_txt_160"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204412,
+    "index" : 1,
+    "title" : "effect_txt_23",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11510311,
+    "index" : 1,
+    "title" : "effect_txt_24",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13107011,
+    "index" : 2,
+    "title" : "effect_txt_25",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11710511,
+    "index" : 1,
+    "title" : "effect_txt_26",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 10501211,
+    "index" : 1,
+    "title" : "effect_txt_27",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11710811,
+    "index" : 1,
+    "title" : "effect_txt_28",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 10601211,
+    "index" : 1,
+    "title" : "effect_txt_29",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12111113,
+    "index" : 1,
+    "title" : "effect_txt_30",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11509511,
+    "index" : 1,
+    "title" : "effect_txt_31",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11509911,
+    "index" : 1,
+    "title" : "effect_txt_32",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12211212,
+    "index" : 2,
+    "title" : "effect_txt_33",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11609411,
+    "index" : 1,
+    "title" : "effect_txt_34",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11609411,
+    "index" : 2,
+    "title" : "effect_txt_35",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11510511,
+    "index" : 1,
+    "title" : "effect_txt_36",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11507811,
+    "index" : 101,
+    "title" : "effect_txt_37",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12009711,
+    "index" : 2,
+    "title" : "effect_txt_38",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11508411,
+    "index" : 1,
+    "title" : "effect_txt_39",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11508412,
+    "index" : 1,
+    "title" : "effect_txt_40",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11701411,
+    "index" : 1,
+    "title" : "effect_txt_41",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11709711,
+    "index" : 1,
+    "title" : "effect_txt_42",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11701913,
+    "index" : 1,
+    "title" : "effect_txt_43",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13002211,
+    "index" : 1,
+    "title" : "effect_txt_44",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13002211,
+    "index" : 2,
+    "title" : "effect_txt_45",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11809511,
+    "index" : 1,
+    "title" : "effect_txt_46",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11809012,
+    "index" : 1,
+    "title" : "effect_txt_47",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11710911,
+    "index" : 1,
+    "title" : "effect_txt_48",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11809811,
+    "index" : 1,
+    "title" : "effect_txt_49",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11901912,
+    "index" : 1,
+    "title" : "effect_txt_50",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12001712,
+    "index" : 1,
+    "title" : "effect_txt_51",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12008712,
+    "index" : 1,
+    "title" : "effect_txt_52",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12008712,
+    "index" : 2,
+    "title" : "effect_txt_53",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12009311,
+    "index" : 1,
+    "title" : "effect_txt_54",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11902511,
+    "index" : 1,
+    "title" : "effect_txt_55",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11903211,
+    "index" : 1,
+    "title" : "effect_txt_56",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11908812,
+    "index" : 1,
+    "title" : "effect_txt_57",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12008812,
+    "index" : 1,
+    "title" : "effect_txt_58",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12008812,
+    "index" : 2,
+    "title" : "effect_txt_59",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12009611,
+    "index" : 1,
+    "title" : "effect_txt_60",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11903511,
+    "index" : 1,
+    "title" : "effect_txt_61",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11904711,
+    "index" : 2,
+    "title" : "effect_txt_62",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11910212,
+    "index" : 1,
+    "title" : "effect_txt_63",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12010211,
+    "index" : 1,
+    "title" : "effect_txt_64",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11908511,
+    "index" : 1,
+    "title" : "effect_txt_65",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12008611,
+    "index" : 1,
+    "title" : "effect_txt_66",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11810911,
+    "index" : 1,
+    "title" : "effect_txt_67",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11906011,
+    "index" : 101,
+    "title" : "effect_txt_68",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12006512,
+    "index" : 101,
+    "title" : "effect_txt_69",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12010411,
+    "index" : 1,
+    "title" : "effect_txt_70",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12011111,
+    "index" : 1,
+    "title" : "effect_txt_71",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11708411,
+    "index" : 101,
+    "title" : "effect_txt_72",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12007512,
+    "index" : 1,
+    "title" : "effect_txt_73",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12007512,
+    "index" : 2,
+    "title" : "effect_txt_74",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12007811,
+    "index" : 1,
+    "title" : "effect_txt_75",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12011212,
+    "index" : 2,
+    "title" : "effect_txt_76",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12101712,
+    "index" : 1,
+    "title" : "effect_txt_77",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12108512,
+    "index" : 1,
+    "title" : "effect_txt_78",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12201911,
+    "index" : 1,
+    "title" : "effect_txt_79",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12207011,
+    "index" : 1,
+    "title" : "effect_txt_80",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12210511,
+    "index" : 1,
+    "title" : "effect_txt_81",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12102512,
+    "index" : 1,
+    "title" : "effect_txt_82",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12102711,
+    "index" : 4,
+    "title" : "effect_txt_83",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12102911,
+    "index" : 1,
+    "title" : "effect_txt_84",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12101921,
+    "index" : 1,
+    "title" : "effect_txt_85",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12109511,
+    "index" : 1,
+    "title" : "effect_txt_86",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12103911,
+    "index" : 1,
+    "title" : "effect_txt_87",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12204311,
+    "index" : 1,
+    "title" : "effect_txt_88",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12104311,
+    "index" : 1,
+    "title" : "effect_txt_89",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12104521,
+    "index" : 1,
+    "title" : "effect_txt_90",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12104911,
+    "index" : 101,
+    "title" : "effect_txt_91",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12210211,
+    "index" : 2,
+    "title" : "effect_txt_92",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12108311,
+    "index" : 1,
+    "title" : "effect_txt_93",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12208412,
+    "index" : 1,
+    "title" : "effect_txt_94",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12208412,
+    "index" : 2,
+    "title" : "effect_txt_95",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12211012,
+    "index" : 1,
+    "title" : "effect_txt_96",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12211012,
+    "index" : 3,
+    "title" : "effect_txt_97",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12105811,
+    "index" : 1,
+    "title" : "effect_txt_98",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12106311,
+    "index" : 1,
+    "title" : "effect_txt_99",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12106311,
+    "index" : 2,
+    "title" : "effect_txt_100",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12106411,
+    "index" : 1,
+    "title" : "effect_txt_101",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12106512,
+    "index" : 1,
+    "title" : "effect_txt_102",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12110411,
+    "index" : 1,
+    "title" : "effect_txt_103",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12206911,
+    "index" : 1,
+    "title" : "effect_txt_104",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12209212,
+    "index" : 1,
+    "title" : "effect_txt_105",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12210411,
+    "index" : 3,
+    "title" : "effect_txt_106",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13206012,
+    "index" : 1,
+    "title" : "effect_txt_107",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13103721,
+    "index" : 1,
+    "title" : "effect_txt_108",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13202811,
+    "index" : 1,
+    "title" : "effect_txt_109",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13202911,
+    "index" : 1,
+    "title" : "effect_txt_110",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13107311,
+    "index" : 1,
+    "title" : "effect_txt_111",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13107313,
+    "index" : 1,
+    "title" : "effect_txt_112",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11908613,
+    "index" : 1,
+    "title" : "effect_txt_113",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204112,
+    "index" : 1,
+    "title" : "effect_txt_114",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13200712,
+    "index" : 1,
+    "title" : "effect_txt_115",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204811,
+    "index" : 2,
+    "title" : "effect_txt_116",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204812,
+    "index" : 2,
+    "title" : "effect_txt_117",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204811,
+    "index" : 1,
+    "title" : "effect_txt_118",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204812,
+    "index" : 1,
+    "title" : "effect_txt_119",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13204911,
+    "index" : 1,
+    "title" : "effect_txt_120",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13205511,
+    "index" : 2,
+    "title" : "effect_txt_121",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13205513,
+    "index" : 1,
+    "title" : "effect_txt_122",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13207212,
+    "index" : 101,
+    "title" : "effect_txt_123",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 13207212,
+    "index" : 1,
+    "title" : "effect_txt_124",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12206611,
+    "index" : 1,
+    "title" : "effect_txt_125",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12108211,
+    "index" : 1,
+    "title" : "effect_txt_126",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 10500911,
+    "index" : 1,
+    "title" : "effect_txt_127",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12105811,
+    "index" : 2,
+    "title" : "effect_txt_128",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 12108512,
+    "index" : 2,
+    "title" : "effect_txt_129",
+    "option_desc" : [],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11300612,
+    "index" : 5,
+    "title" : "effect_txt_130",
+    "option_desc" : [
+      "effect_txt_132",
+      "effect_txt_133"
+    ],
+    "option_common" : ""
+  },
+  {
+    "skillid" : 11301612,
+    "index" : 1,
+    "title" : "effect_txt_131",
+    "option_desc" : [
+      "effect_txt_136",
+      "effect_txt_137"
+    ],
+    "option_common" : ""
+  }
+]

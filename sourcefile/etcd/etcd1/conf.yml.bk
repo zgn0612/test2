@@ -1,0 +1,9 @@
+name: etcd-1
+data-dir: ./data
+listen-client-urls: http://10.0.2.15:2379,http://localhost:2379
+advertise-client-urls: http://10.0.2.15:2379,http://127.0.0.1:2379
+listen-peer-urls: http://10.0.2.15:2380,http://10.0.2.15:2480
+initial-cluster-token: etcd-cluster-token
+initial-cluster-state: new
+initial-cluster: etcd-1=http://10.0.2.15:2380,etcd-2=http://10.0.2.15:2480
+

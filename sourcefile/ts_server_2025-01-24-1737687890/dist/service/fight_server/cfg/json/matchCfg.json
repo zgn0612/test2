@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 300001,
+    "name" : "item_name_300001",
+    "type" : 3,
+    "show_in_pack" : 0
+  },
+  {
+    "id" : 300002,
+    "name" : "item_name_300002",
+    "type" : 3,
+    "show_in_pack" : 0
+  },
+  {
+    "id" : 300003,
+    "name" : "item_name_300003",
+    "type" : 3,
+    "show_in_pack" : 0
+  }
+]

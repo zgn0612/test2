@@ -1,0 +1,22 @@
+[
+  {
+    "chapter_id" : 1,
+    "chapter_name" : "chapter_name_1",
+    "start_type" : [
+      11
+    ],
+    "unlock_chapter" : [],
+    "chapter_reward" : 503001
+  },
+  {
+    "chapter_id" : 2,
+    "chapter_name" : "chapter_name_2",
+    "start_type" : [
+      21
+    ],
+    "unlock_chapter" : [
+      1
+    ],
+    "chapter_reward" : 503001
+  }
+]

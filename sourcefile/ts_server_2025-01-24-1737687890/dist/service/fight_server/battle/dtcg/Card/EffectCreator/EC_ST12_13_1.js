@@ -1,0 +1,21 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DtCardDigimonType_1 = require("../../Data/DtCardDigimonType");
+const DtEffectType_1 = require("../Effect/DtEffectType");
+const DtGroupBrowseCardsCreator_1 = require("../Effect/DtGroupBrowseCardsCreator");
+const DtCardFilter_Custom_1 = require("../Skill/DtSkillCardFilter/DtCardFilter_Custom");
+const DtCardOperate_MoveTo_Hand_1 = require("../Skill/DtSkillCardOperate/DtCardOperate_MoveTo_Hand");
+class EC_ST12_13_1 extends DtGroupBrowseCardsCreator_1.default {
+    SetEffect() {
+        let effect = this.GetNewEffect();
+        effect.SetTriggerType(DtEffectType_1.DtEffectType.OnPlay);
+        this.SetCommonBrowseFrommDeckThenDiscard(effect, 3, 1, (skl, idx) => {
+            skl.SetFilter(new DtCardFilter_Custom_1.DtCardFilter_Custom(this, (card) => {
+                return card.NameIs(DtCardDigimonType_1.DtCardDigimonType.name_type_10674) || card.FeatureIs(DtCardDigimonType_1.DtCardDigimonType.type_116);
+            }));
+            skl.SetOperate(new DtCardOperate_MoveTo_Hand_1.DtCardOperate_MoveTo_Hand());
+        });
+    }
+}
+exports.default = EC_ST12_13_1;
+//# sourceMappingURL=EC_ST12_13_1.js.map

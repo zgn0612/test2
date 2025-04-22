@@ -1,0 +1,139 @@
+[
+  {
+    "key_card_id" : 1,
+    "card_set" : [
+      115025,
+      116084,
+      115085,
+      116009,
+      115022,
+      116020
+    ],
+    "set_intro" : "tips_01",
+    "draw_odds_intro" : "odds_01"
+  },
+  {
+    "key_card_id" : 2,
+    "card_set" : [
+      116032,
+      115086,
+      116086,
+      116085,
+      115044,
+      115041
+    ],
+    "set_intro" : "tips_02",
+    "draw_odds_intro" : "odds_02"
+  },
+  {
+    "key_card_id" : 3,
+    "card_set" : [
+      116041,
+      116087,
+      115087,
+      116038,
+      116039,
+      115060
+    ],
+    "set_intro" : "tips_03",
+    "draw_odds_intro" : "odds_03"
+  },
+  {
+    "key_card_id" : 4,
+    "card_set" : [
+      115081,
+      115089,
+      115088,
+      116088,
+      115079,
+      116051
+    ],
+    "set_intro" : "tips_04",
+    "draw_odds_intro" : "odds_04"
+  },
+  {
+    "key_card_id" : 5,
+    "card_set" : [
+      116066,
+      116061,
+      116089,
+      116057,
+      116056,
+      116063
+    ],
+    "set_intro" : "tips_05",
+    "draw_odds_intro" : "odds_05"
+  },
+  {
+    "key_card_id" : 6,
+    "card_set" : [
+      116111,
+      116070,
+      116090,
+      116068,
+      116080,
+      116081
+    ],
+    "set_intro" : "tips_06",
+    "draw_odds_intro" : "odds_06"
+  },
+  {
+    "key_card_id" : 7,
+    "card_set" : [
+      120016,
+      120009,
+      120011,
+      120015,
+      120082,
+      120084,
+      120093
+    ],
+    "set_intro" : "tips_07",
+    "draw_odds_intro" : "odds_07"
+  },
+  {
+    "key_card_id" : 8,
+    "card_set" : [
+      120018,
+      120087,
+      120007
+    ],
+    "set_intro" : "tips_08",
+    "draw_odds_intro" : "odds_08"
+  },
+  {
+    "key_card_id" : 9,
+    "card_set" : [
+      120030,
+      120088,
+      120019
+    ],
+    "set_intro" : "tips_09",
+    "draw_odds_intro" : "odds_09"
+  },
+  {
+    "key_card_id" : 10,
+    "card_set" : [
+      120112,
+      120017,
+      120095,
+      120065,
+      120105,
+      120109
+    ],
+    "set_intro" : "tips_10",
+    "draw_odds_intro" : "odds_10"
+  },
+  {
+    "key_card_id" : 11,
+    "card_set" : [
+      119087,
+      119079,
+      119081,
+      119093,
+      119109
+    ],
+    "set_intro" : "tips_11",
+    "draw_odds_intro" : "odds_11"
+  }
+]

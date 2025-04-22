@@ -1,0 +1,22 @@
+[
+  {
+    "scene_id" : 1,
+    "scene_name" : "scene_name_1",
+    "scene_portrait" : "Pic_Storybg"
+  },
+  {
+    "scene_id" : 2,
+    "scene_name" : "scene_name_2",
+    "scene_portrait" : "Pic_Storybg"
+  },
+  {
+    "scene_id" : 3,
+    "scene_name" : "scene_name_3",
+    "scene_portrait" : "bedroom_bg"
+  },
+  {
+    "scene_id" : 4,
+    "scene_name" : "scene_name_4",
+    "scene_portrait" : "cardstore_bg"
+  }
+]

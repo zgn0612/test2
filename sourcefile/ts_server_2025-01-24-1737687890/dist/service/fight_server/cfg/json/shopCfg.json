@@ -1,0 +1,56 @@
+[
+  {
+    "id" : 10001,
+    "name" : "shop_str_1",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10002,
+    "name" : "shop_str_2",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10003,
+    "name" : "shop_str_3",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10005,
+    "name" : "shop_str_5",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10006,
+    "name" : "shop_str_6",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10009,
+    "name" : "shop_str_9",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10010,
+    "name" : "shop_str_10",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10011,
+    "name" : "shop_str_11",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  },
+  {
+    "id" : 10013,
+    "name" : "shop_str_14",
+    "shop_begin_time" : "",
+    "shop_end_time" : ""
+  }
+]

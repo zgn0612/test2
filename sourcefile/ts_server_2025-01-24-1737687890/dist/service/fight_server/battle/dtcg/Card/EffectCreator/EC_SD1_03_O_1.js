@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DtEnum_1 = require("../../Data/DtEnum");
+const DtDigimonPersistenceBuff_1 = require("../Effect/DtDigimonPersistenceBuff");
+class EC_SD1_03_O_1 extends DtDigimonPersistenceBuff_1.default {
+    SetEffect() {
+        this.CreatePersistenceBuff(DtEnum_1.DtBuffType.INCREASE_DESTORY_CARD_DP, DtEnum_1.DtEffectRoundValid.Self);
+    }
+    OnIntBuffCondition() {
+        return 1000;
+    }
+}
+exports.default = EC_SD1_03_O_1;
+//# sourceMappingURL=EC_SD1_03_O_1.js.map

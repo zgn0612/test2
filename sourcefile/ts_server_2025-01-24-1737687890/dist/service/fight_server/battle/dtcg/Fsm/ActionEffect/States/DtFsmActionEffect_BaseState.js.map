@@ -1,0 +1,1 @@
+{"version":3,"file":"DtFsmActionEffect_BaseState.js","sourceRoot":"","sources":["../../../../../../../../src/service/fight_server/battle/dtcg/Fsm/ActionEffect/States/DtFsmActionEffect_BaseState.ts"],"names":[],"mappings":";;;AAAA,8DAA2D;AAG3D,MAAa,2BAA4B,SAAQ,+BAAc;IAEpD,UAAU;QACb,OAAO,IAAI,CAAC,UAA+B,CAAA;IAC/C,CAAC;CACJ;AALD,kEAKC"}

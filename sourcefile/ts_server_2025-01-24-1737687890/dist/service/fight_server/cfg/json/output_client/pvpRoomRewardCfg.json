@@ -1,0 +1,146 @@
+[
+  {
+    "id" : 1,
+    "level" : 1,
+    "rank" : 1,
+    "rewards" : [
+      504000
+    ]
+  },
+  {
+    "id" : 2,
+    "level" : 1,
+    "rank" : 2,
+    "rewards" : [
+      504001
+    ]
+  },
+  {
+    "id" : 3,
+    "level" : 1,
+    "rank" : 3,
+    "rewards" : [
+      504002
+    ]
+  },
+  {
+    "id" : 4,
+    "level" : 2,
+    "rank" : 1,
+    "rewards" : [
+      504003
+    ]
+  },
+  {
+    "id" : 5,
+    "level" : 2,
+    "rank" : 2,
+    "rewards" : [
+      504004
+    ]
+  },
+  {
+    "id" : 6,
+    "level" : 2,
+    "rank" : 3,
+    "rewards" : [
+      504005
+    ]
+  },
+  {
+    "id" : 7,
+    "level" : 2,
+    "rank" : 4,
+    "rewards" : [
+      504006
+    ]
+  },
+  {
+    "id" : 8,
+    "level" : 3,
+    "rank" : 1,
+    "rewards" : [
+      504007
+    ]
+  },
+  {
+    "id" : 9,
+    "level" : 3,
+    "rank" : 2,
+    "rewards" : [
+      504008
+    ]
+  },
+  {
+    "id" : 10,
+    "level" : 3,
+    "rank" : 3,
+    "rewards" : [
+      504009
+    ]
+  },
+  {
+    "id" : 11,
+    "level" : 3,
+    "rank" : 4,
+    "rewards" : [
+      504010
+    ]
+  },
+  {
+    "id" : 12,
+    "level" : 3,
+    "rank" : 5,
+    "rewards" : [
+      504011
+    ]
+  },
+  {
+    "id" : 13,
+    "level" : 4,
+    "rank" : 1,
+    "rewards" : [
+      504012
+    ]
+  },
+  {
+    "id" : 14,
+    "level" : 4,
+    "rank" : 2,
+    "rewards" : [
+      504013
+    ]
+  },
+  {
+    "id" : 15,
+    "level" : 4,
+    "rank" : 3,
+    "rewards" : [
+      504014
+    ]
+  },
+  {
+    "id" : 16,
+    "level" : 4,
+    "rank" : 4,
+    "rewards" : [
+      504015
+    ]
+  },
+  {
+    "id" : 17,
+    "level" : 4,
+    "rank" : 5,
+    "rewards" : [
+      504016
+    ]
+  },
+  {
+    "id" : 18,
+    "level" : 4,
+    "rank" : 6,
+    "rewards" : [
+      504017
+    ]
+  }
+]

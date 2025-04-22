@@ -1,0 +1,10 @@
+import { DtSkillReasonDesc } from "../../../Message/DtMessageData";
+import { DtCardBase } from "../../DtCardBase";
+import { DtEffect } from "../../Effect/DtEffect";
+import { DtSkillCardOperateBase } from "./DtSkillCardOperateBase";
+export declare class DtCardOperate_SetOrigin_ChooseIsOrigin extends DtSkillCardOperateBase {
+    private where;
+    constructor(where: number);
+    OnOperateCard(card: DtCardBase, effect: DtEffect): void;
+    GetReasonDesc(): DtSkillReasonDesc;
+}

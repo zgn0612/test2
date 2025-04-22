@@ -1,0 +1,58 @@
+[
+  {
+    "id" : 1,
+    "fix_match_min" : 0,
+    "fix_match_max" : 699,
+    "fix_match_win" : [
+      "5,110",
+      "3,105",
+      "1,100"
+    ],
+    "fix_match_lose" : [
+      "5,90",
+      "3,95",
+      "1,100"
+    ]
+  },
+  {
+    "id" : 2,
+    "fix_match_min" : 700,
+    "fix_match_max" : 1299,
+    "fix_match_win" : [
+      "5,120",
+      "3,110",
+      "1,100"
+    ],
+    "fix_match_lose" : [
+      "5,80",
+      "3,90",
+      "1,100"
+    ]
+  },
+  {
+    "id" : 3,
+    "fix_match_min" : 1300,
+    "fix_match_max" : 1599,
+    "fix_match_win" : [
+      "3,110",
+      "1,100"
+    ],
+    "fix_match_lose" : [
+      "3,90",
+      "1,100"
+    ]
+  },
+  {
+    "id" : 4,
+    "fix_match_min" : 1600,
+    "fix_match_max" : 999999999,
+    "fix_match_win" : [
+      "5,105",
+      "1,100"
+    ],
+    "fix_match_lose" : [
+      "5,95",
+      "1,100"
+    ]
+  }
+]

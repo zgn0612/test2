@@ -1,0 +1,1729 @@
+[
+  {
+    "id" : 1,
+    "group_id" : 1,
+    "card" : 115002,
+    "card_num" : 1,
+    "ai_config" : []
+  },
+  {
+    "id" : 2,
+    "group_id" : 1,
+    "card" : 115085,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC1_BT1_085"
+    ]
+  },
+  {
+    "id" : 3,
+    "group_id" : 1,
+    "card" : 117097,
+    "card_num" : 2,
+    "ai_config" : []
+  },
+  {
+    "id" : 4,
+    "group_id" : 1,
+    "card" : 118015,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT4_015"
+    ]
+  },
+  {
+    "id" : 5,
+    "group_id" : 1,
+    "card" : 101007,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_ST1_07"
+    ]
+  },
+  {
+    "id" : 6,
+    "group_id" : 1,
+    "card" : 185086,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC1_BT5_086"
+    ]
+  },
+  {
+    "id" : 7,
+    "group_id" : 1,
+    "card" : 107003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_ST7_03"
+    ]
+  },
+  {
+    "id" : 8,
+    "group_id" : 1,
+    "card" : 107001,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 9,
+    "group_id" : 1,
+    "card" : 120009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_009",
+      "AC1_BT6_009_effect"
+    ]
+  },
+  {
+    "id" : 10,
+    "group_id" : 1,
+    "card" : 120082,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_082"
+    ]
+  },
+  {
+    "id" : 11,
+    "group_id" : 1,
+    "card" : 120084,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_084"
+    ]
+  },
+  {
+    "id" : 12,
+    "group_id" : 1,
+    "card" : 120011,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_011"
+    ]
+  },
+  {
+    "id" : 13,
+    "group_id" : 1,
+    "card" : 120015,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_015",
+      "AC1_BT6_015_effect"
+    ]
+  },
+  {
+    "id" : 14,
+    "group_id" : 1,
+    "card" : 120093,
+    "card_num" : 2,
+    "ai_config" : []
+  },
+  {
+    "id" : 15,
+    "group_id" : 1,
+    "card" : 120016,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_BT6_016",
+      "AC1_BT6_016_effect"
+    ]
+  },
+  {
+    "id" : 16,
+    "group_id" : 1,
+    "card" : 101002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC1_ST1_02"
+    ]
+  },
+  {
+    "id" : 17,
+    "group_id" : 1,
+    "card" : 107009,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC1_ST7_09"
+    ]
+  },
+  {
+    "id" : 18,
+    "group_id" : 2,
+    "card" : 103015,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_ST3_15",
+      "AC2_ST3_15_effect"
+    ]
+  },
+  {
+    "id" : 19,
+    "group_id" : 2,
+    "card" : 115063,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT1_063"
+    ]
+  },
+  {
+    "id" : 20,
+    "group_id" : 2,
+    "card" : 115087,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT1_087",
+      "AC2_BT1_087_effect"
+    ]
+  },
+  {
+    "id" : 21,
+    "group_id" : 2,
+    "card" : 115060,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT1_060"
+    ]
+  },
+  {
+    "id" : 22,
+    "group_id" : 2,
+    "card" : 115114,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT1_114"
+    ]
+  },
+  {
+    "id" : 23,
+    "group_id" : 2,
+    "card" : 115107,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT1_107"
+    ]
+  },
+  {
+    "id" : 24,
+    "group_id" : 2,
+    "card" : 116087,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT2_087"
+    ]
+  },
+  {
+    "id" : 25,
+    "group_id" : 2,
+    "card" : 116039,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT2_039"
+    ]
+  },
+  {
+    "id" : 26,
+    "group_id" : 2,
+    "card" : 103016,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_ST3_16",
+      "AC2_ST3_16_effect"
+    ]
+  },
+  {
+    "id" : 27,
+    "group_id" : 2,
+    "card" : 116054,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT2_054"
+    ]
+  },
+  {
+    "id" : 28,
+    "group_id" : 2,
+    "card" : 116006,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 29,
+    "group_id" : 2,
+    "card" : 118067,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT4_067"
+    ]
+  },
+  {
+    "id" : 30,
+    "group_id" : 2,
+    "card" : 117105,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC2_BT3_105",
+      "AC2_BT3_105_effect"
+    ]
+  },
+  {
+    "id" : 31,
+    "group_id" : 2,
+    "card" : 120106,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC2_BT6_106"
+    ]
+  },
+  {
+    "id" : 32,
+    "group_id" : 3,
+    "card" : 115001,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 33,
+    "group_id" : 3,
+    "card" : 101003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST1_03"
+    ]
+  },
+  {
+    "id" : 34,
+    "group_id" : 3,
+    "card" : 101006,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC3_ST1_06"
+    ]
+  },
+  {
+    "id" : 35,
+    "group_id" : 3,
+    "card" : 101007,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST1_07"
+    ]
+  },
+  {
+    "id" : 36,
+    "group_id" : 3,
+    "card" : 101009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST1_09"
+    ]
+  },
+  {
+    "id" : 37,
+    "group_id" : 3,
+    "card" : 101011,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST1_11"
+    ]
+  },
+  {
+    "id" : 38,
+    "group_id" : 3,
+    "card" : 101016,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC3_ST1_16",
+      "AC3_ST1_16_effect"
+    ]
+  },
+  {
+    "id" : 39,
+    "group_id" : 3,
+    "card" : 115010,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_BT1_010",
+      "AC3_BT1_010_effect"
+    ]
+  },
+  {
+    "id" : 40,
+    "group_id" : 3,
+    "card" : 115021,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_BT1_021"
+    ]
+  },
+  {
+    "id" : 41,
+    "group_id" : 3,
+    "card" : 181025,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_BT1_025"
+    ]
+  },
+  {
+    "id" : 42,
+    "group_id" : 3,
+    "card" : 115085,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_BT1_085"
+    ]
+  },
+  {
+    "id" : 43,
+    "group_id" : 3,
+    "card" : 117097,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC3_BT3_097",
+      "AC3_BT3_097_effect"
+    ]
+  },
+  {
+    "id" : 44,
+    "group_id" : 3,
+    "card" : 118099,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC3_BT4_099",
+      "AC3_BT4_099_effect"
+    ]
+  },
+  {
+    "id" : 45,
+    "group_id" : 3,
+    "card" : 107002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST7_02"
+    ]
+  },
+  {
+    "id" : 46,
+    "group_id" : 3,
+    "card" : 107006,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_ST7_06",
+      "AC3_ST7_06_effect"
+    ]
+  },
+  {
+    "id" : 47,
+    "group_id" : 3,
+    "card" : 130035,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC3_P_035",
+      "AC3_P_035_effect"
+    ]
+  },
+  {
+    "id" : 48,
+    "group_id" : 4,
+    "card" : 116001,
+    "card_num" : 3,
+    "ai_config" : []
+  },
+  {
+    "id" : 49,
+    "group_id" : 4,
+    "card" : 101001,
+    "card_num" : 2,
+    "ai_config" : []
+  },
+  {
+    "id" : 50,
+    "group_id" : 4,
+    "card" : 101003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_ST1_03"
+    ]
+  },
+  {
+    "id" : 51,
+    "group_id" : 4,
+    "card" : 115010,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC4_BT1_010",
+      "AC4_BT1_010_effect"
+    ]
+  },
+  {
+    "id" : 52,
+    "group_id" : 4,
+    "card" : 130009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_P_009"
+    ]
+  },
+  {
+    "id" : 53,
+    "group_id" : 4,
+    "card" : 116010,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_BT2_010"
+    ]
+  },
+  {
+    "id" : 54,
+    "group_id" : 4,
+    "card" : 101006,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_ST1_06"
+    ]
+  },
+  {
+    "id" : 55,
+    "group_id" : 4,
+    "card" : 101007,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_ST1_07"
+    ]
+  },
+  {
+    "id" : 56,
+    "group_id" : 4,
+    "card" : 115019,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_BT1_019"
+    ]
+  },
+  {
+    "id" : 57,
+    "group_id" : 4,
+    "card" : 101009,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC4_ST1_09"
+    ]
+  },
+  {
+    "id" : 58,
+    "group_id" : 4,
+    "card" : 115020,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_BT1_020"
+    ]
+  },
+  {
+    "id" : 59,
+    "group_id" : 4,
+    "card" : 115114,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC4_BT1_114"
+    ]
+  },
+  {
+    "id" : 60,
+    "group_id" : 4,
+    "card" : 115023,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC4_BT1_023",
+      "AC4_BT1_023_effect"
+    ]
+  },
+  {
+    "id" : 61,
+    "group_id" : 4,
+    "card" : 181025,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_BT1_025"
+    ]
+  },
+  {
+    "id" : 62,
+    "group_id" : 4,
+    "card" : 185086,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC4_BT5_086"
+    ]
+  },
+  {
+    "id" : 63,
+    "group_id" : 4,
+    "card" : 101016,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC4_ST1_16",
+      "AC4_ST1_16_effect"
+    ]
+  },
+  {
+    "id" : 64,
+    "group_id" : 4,
+    "card" : 115085,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC4_BT1_085"
+    ]
+  },
+  {
+    "id" : 65,
+    "group_id" : 5,
+    "card" : 108001,
+    "card_num" : 1,
+    "ai_config" : []
+  },
+  {
+    "id" : 66,
+    "group_id" : 5,
+    "card" : 115003,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 67,
+    "group_id" : 5,
+    "card" : 115029,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT1_029"
+    ]
+  },
+  {
+    "id" : 68,
+    "group_id" : 5,
+    "card" : 120019,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_BT6_019"
+    ]
+  },
+  {
+    "id" : 69,
+    "group_id" : 5,
+    "card" : 108002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_ST8_02"
+    ]
+  },
+  {
+    "id" : 70,
+    "group_id" : 5,
+    "card" : 118023,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT4_023",
+      "AC5_BT4_023_effect"
+    ]
+  },
+  {
+    "id" : 71,
+    "group_id" : 5,
+    "card" : 120022,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC5_BT6_022"
+    ]
+  },
+  {
+    "id" : 72,
+    "group_id" : 5,
+    "card" : 115037,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT1_037"
+    ]
+  },
+  {
+    "id" : 73,
+    "group_id" : 5,
+    "card" : 118025,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT4_025"
+    ]
+  },
+  {
+    "id" : 74,
+    "group_id" : 5,
+    "card" : 118027,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC5_BT4_027",
+      "AC5_BT4_027_effect"
+    ]
+  },
+  {
+    "id" : 75,
+    "group_id" : 5,
+    "card" : 119026,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_BT5_026"
+    ]
+  },
+  {
+    "id" : 76,
+    "group_id" : 5,
+    "card" : 186030,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_BT6_030",
+      "AC5_BT6_030_effect"
+    ]
+  },
+  {
+    "id" : 77,
+    "group_id" : 5,
+    "card" : 120097,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_BT6_097",
+      "AC5_BT6_097_effect"
+    ]
+  },
+  {
+    "id" : 78,
+    "group_id" : 5,
+    "card" : 120098,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT6_098",
+      "AC5_BT6_098_effect"
+    ]
+  },
+  {
+    "id" : 79,
+    "group_id" : 5,
+    "card" : 102013,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC5_ST2_13"
+    ]
+  },
+  {
+    "id" : 80,
+    "group_id" : 5,
+    "card" : 119088,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC5_BT5_088",
+      "AC5_BT5_088_effect"
+    ]
+  },
+  {
+    "id" : 81,
+    "group_id" : 5,
+    "card" : 120088,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC5_BT6_088",
+      "AC5_BT6_088_effect"
+    ]
+  },
+  {
+    "id" : 82,
+    "group_id" : 5,
+    "card" : 117093,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC5_BT3_093",
+      "AC5_BT3_093_effect"
+    ]
+  },
+  {
+    "id" : 83,
+    "group_id" : 6,
+    "card" : 117003,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 84,
+    "group_id" : 6,
+    "card" : 116034,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT2_034"
+    ]
+  },
+  {
+    "id" : 85,
+    "group_id" : 6,
+    "card" : 108006,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC6_ST8_06"
+    ]
+  },
+  {
+    "id" : 86,
+    "group_id" : 6,
+    "card" : 107006,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC6_ST7_06",
+      "AC6_ST7_06_effect"
+    ]
+  },
+  {
+    "id" : 87,
+    "group_id" : 6,
+    "card" : 115060,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT1_060"
+    ]
+  },
+  {
+    "id" : 88,
+    "group_id" : 6,
+    "card" : 116039,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC6_BT2_039",
+      "AC6_BT2_039_effect"
+    ]
+  },
+  {
+    "id" : 89,
+    "group_id" : 6,
+    "card" : 185044,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC6_BT5_044"
+    ]
+  },
+  {
+    "id" : 90,
+    "group_id" : 6,
+    "card" : 185112,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC6_BT5_112",
+      "AC6_BT5_112_effect"
+    ]
+  },
+  {
+    "id" : 91,
+    "group_id" : 6,
+    "card" : 120090,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT6_090"
+    ]
+  },
+  {
+    "id" : 92,
+    "group_id" : 6,
+    "card" : 118096,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC6_BT4_096"
+    ]
+  },
+  {
+    "id" : 93,
+    "group_id" : 6,
+    "card" : 120100,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT6_100",
+      "AC6_BT6_100_effect"
+    ]
+  },
+  {
+    "id" : 94,
+    "group_id" : 6,
+    "card" : 120101,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT6_101",
+      "AC6_BT6_101_effect"
+    ]
+  },
+  {
+    "id" : 95,
+    "group_id" : 6,
+    "card" : 120105,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT6_105"
+    ]
+  },
+  {
+    "id" : 96,
+    "group_id" : 6,
+    "card" : 120106,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT6_106"
+    ]
+  },
+  {
+    "id" : 97,
+    "group_id" : 6,
+    "card" : 118106,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC6_BT4_106"
+    ]
+  },
+  {
+    "id" : 98,
+    "group_id" : 6,
+    "card" : 118105,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC6_BT4_105",
+      "AC6_BT4_105_effect"
+    ]
+  },
+  {
+    "id" : 99,
+    "group_id" : 6,
+    "card" : 119105,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC6_BT5_105",
+      "AC6_BT5_105_effect"
+    ]
+  },
+  {
+    "id" : 100,
+    "group_id" : 7,
+    "card" : 105001,
+    "card_num" : 3,
+    "ai_config" : []
+  },
+  {
+    "id" : 101,
+    "group_id" : 7,
+    "card" : 120005,
+    "card_num" : 2,
+    "ai_config" : []
+  },
+  {
+    "id" : 102,
+    "group_id" : 7,
+    "card" : 116055,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC7_BT2_055"
+    ]
+  },
+  {
+    "id" : 103,
+    "group_id" : 7,
+    "card" : 120057,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT6_057"
+    ]
+  },
+  {
+    "id" : 104,
+    "group_id" : 7,
+    "card" : 117061,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC7_BT3_061"
+    ]
+  },
+  {
+    "id" : 105,
+    "group_id" : 7,
+    "card" : 130033,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC7_P_033"
+    ]
+  },
+  {
+    "id" : 106,
+    "group_id" : 7,
+    "card" : 105008,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC7_ST5_08"
+    ]
+  },
+  {
+    "id" : 107,
+    "group_id" : 7,
+    "card" : 116056,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC7_BT2_056"
+    ]
+  },
+  {
+    "id" : 108,
+    "group_id" : 7,
+    "card" : 119062,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT5_062"
+    ]
+  },
+  {
+    "id" : 109,
+    "group_id" : 7,
+    "card" : 105011,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC7_ST5_11"
+    ]
+  },
+  {
+    "id" : 110,
+    "group_id" : 7,
+    "card" : 120064,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT6_064",
+      "AC7_BT6_064_effect"
+    ]
+  },
+  {
+    "id" : 111,
+    "group_id" : 7,
+    "card" : 120062,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT6_062"
+    ]
+  },
+  {
+    "id" : 112,
+    "group_id" : 7,
+    "card" : 183075,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT3_075"
+    ]
+  },
+  {
+    "id" : 113,
+    "group_id" : 7,
+    "card" : 186111,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_BT6_111",
+      "AC7_BT6_111_effect"
+    ]
+  },
+  {
+    "id" : 114,
+    "group_id" : 7,
+    "card" : 183112,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC7_BT3_112"
+    ]
+  },
+  {
+    "id" : 115,
+    "group_id" : 7,
+    "card" : 120106,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC7_BT6_106"
+    ]
+  },
+  {
+    "id" : 116,
+    "group_id" : 7,
+    "card" : 119105,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC7_BT5_105",
+      "AC7_BT5_105_effect"
+    ]
+  },
+  {
+    "id" : 117,
+    "group_id" : 7,
+    "card" : 130039,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC7_P_039",
+      "AC7_P_039_effect"
+    ]
+  },
+  {
+    "id" : 118,
+    "group_id" : 7,
+    "card" : 116089,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC7_BT2_089"
+    ]
+  },
+  {
+    "id" : 119,
+    "group_id" : 7,
+    "card" : 105014,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC7_ST5_14",
+      "AC7_ST5_14_effect"
+    ]
+  },
+  {
+    "id" : 120,
+    "group_id" : 7,
+    "card" : 120090,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC7_BT6_090"
+    ]
+  },
+  {
+    "id" : 121,
+    "group_id" : 8,
+    "card" : 101001,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 122,
+    "group_id" : 8,
+    "card" : 101002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_02"
+    ]
+  },
+  {
+    "id" : 123,
+    "group_id" : 8,
+    "card" : 101003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_03"
+    ]
+  },
+  {
+    "id" : 124,
+    "group_id" : 8,
+    "card" : 101004,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_04"
+    ]
+  },
+  {
+    "id" : 125,
+    "group_id" : 8,
+    "card" : 101005,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_05"
+    ]
+  },
+  {
+    "id" : 126,
+    "group_id" : 8,
+    "card" : 101006,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_06"
+    ]
+  },
+  {
+    "id" : 127,
+    "group_id" : 8,
+    "card" : 101007,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC8_ST1_07"
+    ]
+  },
+  {
+    "id" : 128,
+    "group_id" : 8,
+    "card" : 101008,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_08",
+      "AC8_ST1_08_effect"
+    ]
+  },
+  {
+    "id" : 129,
+    "group_id" : 8,
+    "card" : 101009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_09"
+    ]
+  },
+  {
+    "id" : 130,
+    "group_id" : 8,
+    "card" : 101010,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC8_ST1_10"
+    ]
+  },
+  {
+    "id" : 131,
+    "group_id" : 8,
+    "card" : 101011,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC8_ST1_11"
+    ]
+  },
+  {
+    "id" : 132,
+    "group_id" : 8,
+    "card" : 101012,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_12"
+    ]
+  },
+  {
+    "id" : 133,
+    "group_id" : 8,
+    "card" : 101013,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_13",
+      "AC8_ST1_13_effect"
+    ]
+  },
+  {
+    "id" : 134,
+    "group_id" : 8,
+    "card" : 101014,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC8_ST1_14"
+    ]
+  },
+  {
+    "id" : 135,
+    "group_id" : 8,
+    "card" : 101015,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC8_ST1_15",
+      "AC8_ST1_15_effect"
+    ]
+  },
+  {
+    "id" : 136,
+    "group_id" : 8,
+    "card" : 101016,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC8_ST1_16",
+      "AC8_ST1_16_effect"
+    ]
+  },
+  {
+    "id" : 137,
+    "group_id" : 9,
+    "card" : 106001,
+    "card_num" : 1,
+    "ai_config" : []
+  },
+  {
+    "id" : 138,
+    "group_id" : 9,
+    "card" : 117006,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT3_006_effect"
+    ]
+  },
+  {
+    "id" : 139,
+    "group_id" : 9,
+    "card" : 116068,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT2_068"
+    ]
+  },
+  {
+    "id" : 140,
+    "group_id" : 9,
+    "card" : 116070,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC9_BT2_070"
+    ]
+  },
+  {
+    "id" : 141,
+    "group_id" : 9,
+    "card" : 116072,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC9_BT2_072"
+    ]
+  },
+  {
+    "id" : 142,
+    "group_id" : 9,
+    "card" : 116083,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC9_BT2_083",
+      "AC9_BT2_083_effect"
+    ]
+  },
+  {
+    "id" : 143,
+    "group_id" : 9,
+    "card" : 116090,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC9_BT2_090",
+      "AC9_BT2_090_effect"
+    ]
+  },
+  {
+    "id" : 144,
+    "group_id" : 9,
+    "card" : 116110,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC9_BT2_110",
+      "AC9_BT2_110_effect"
+    ]
+  },
+  {
+    "id" : 145,
+    "group_id" : 9,
+    "card" : 106016,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC9_ST6_16",
+      "AC9_ST6_16_effect"
+    ]
+  },
+  {
+    "id" : 146,
+    "group_id" : 9,
+    "card" : 117077,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC9_BT3_077"
+    ]
+  },
+  {
+    "id" : 147,
+    "group_id" : 9,
+    "card" : 118079,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC9_BT4_079",
+      "AC9_BT4_079_effect"
+    ]
+  },
+  {
+    "id" : 148,
+    "group_id" : 9,
+    "card" : 120060,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT6_060",
+      "AC9_BT6_060_effect"
+    ]
+  },
+  {
+    "id" : 149,
+    "group_id" : 9,
+    "card" : 120065,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC9_BT6_065",
+      "AC9_BT6_065_effect"
+    ]
+  },
+  {
+    "id" : 150,
+    "group_id" : 9,
+    "card" : 120068,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT6_068",
+      "AC9_BT6_068_effect"
+    ]
+  },
+  {
+    "id" : 151,
+    "group_id" : 9,
+    "card" : 120077,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC9_BT6_077",
+      "AC9_BT6_077_effect"
+    ]
+  },
+  {
+    "id" : 152,
+    "group_id" : 9,
+    "card" : 120095,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC9_BT6_095"
+    ]
+  },
+  {
+    "id" : 153,
+    "group_id" : 9,
+    "card" : 120105,
+    "card_num" : 3,
+    "ai_config" : [
+      "AC9_BT6_105"
+    ]
+  },
+  {
+    "id" : 154,
+    "group_id" : 9,
+    "card" : 120109,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT6_109",
+      "AC9_BT6_109_effect"
+    ]
+  },
+  {
+    "id" : 155,
+    "group_id" : 9,
+    "card" : 120112,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT6_112",
+      "AC9_BT6_112_effect"
+    ]
+  },
+  {
+    "id" : 156,
+    "group_id" : 9,
+    "card" : 121069,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC9_BT7_069",
+      "AC9_BT7_069_effect"
+    ]
+  },
+  {
+    "id" : 157,
+    "group_id" : 9,
+    "card" : 121072,
+    "card_num" : 1,
+    "ai_config" : [
+      "AC9_BT7_072"
+    ]
+  },
+  {
+    "id" : 158,
+    "group_id" : 10,
+    "card" : 102001,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 159,
+    "group_id" : 10,
+    "card" : 102002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_02"
+    ]
+  },
+  {
+    "id" : 160,
+    "group_id" : 10,
+    "card" : 102003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_03"
+    ]
+  },
+  {
+    "id" : 161,
+    "group_id" : 10,
+    "card" : 102004,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_04"
+    ]
+  },
+  {
+    "id" : 162,
+    "group_id" : 10,
+    "card" : 102005,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_05"
+    ]
+  },
+  {
+    "id" : 163,
+    "group_id" : 10,
+    "card" : 102006,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC10_ST2_06"
+    ]
+  },
+  {
+    "id" : 164,
+    "group_id" : 10,
+    "card" : 102007,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_07"
+    ]
+  },
+  {
+    "id" : 165,
+    "group_id" : 10,
+    "card" : 102008,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_09",
+      "AC10_ST2_09_effect"
+    ]
+  },
+  {
+    "id" : 166,
+    "group_id" : 10,
+    "card" : 102009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_08"
+    ]
+  },
+  {
+    "id" : 167,
+    "group_id" : 10,
+    "card" : 102010,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC10_ST2_10"
+    ]
+  },
+  {
+    "id" : 168,
+    "group_id" : 10,
+    "card" : 102011,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC10_ST2_11"
+    ]
+  },
+  {
+    "id" : 169,
+    "group_id" : 10,
+    "card" : 102012,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_12"
+    ]
+  },
+  {
+    "id" : 170,
+    "group_id" : 10,
+    "card" : 102013,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_13"
+    ]
+  },
+  {
+    "id" : 171,
+    "group_id" : 10,
+    "card" : 102014,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC10_ST2_14",
+      "AC10_ST2_14_effect"
+    ]
+  },
+  {
+    "id" : 172,
+    "group_id" : 10,
+    "card" : 102015,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC10_ST2_15",
+      "AC10_ST2_15_effect"
+    ]
+  },
+  {
+    "id" : 173,
+    "group_id" : 10,
+    "card" : 102016,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC10_ST2_16",
+      "AC10_ST2_16_effect"
+    ]
+  },
+  {
+    "id" : 174,
+    "group_id" : 11,
+    "card" : 102001,
+    "card_num" : 4,
+    "ai_config" : []
+  },
+  {
+    "id" : 175,
+    "group_id" : 11,
+    "card" : 102002,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_02"
+    ]
+  },
+  {
+    "id" : 176,
+    "group_id" : 11,
+    "card" : 102003,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_03"
+    ]
+  },
+  {
+    "id" : 177,
+    "group_id" : 11,
+    "card" : 102004,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_04"
+    ]
+  },
+  {
+    "id" : 178,
+    "group_id" : 11,
+    "card" : 102005,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_05"
+    ]
+  },
+  {
+    "id" : 179,
+    "group_id" : 11,
+    "card" : 102006,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC11_ST2_06"
+    ]
+  },
+  {
+    "id" : 180,
+    "group_id" : 11,
+    "card" : 102007,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_07"
+    ]
+  },
+  {
+    "id" : 181,
+    "group_id" : 11,
+    "card" : 102008,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_09",
+      "AC11_ST2_09_effect"
+    ]
+  },
+  {
+    "id" : 182,
+    "group_id" : 11,
+    "card" : 102009,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_08"
+    ]
+  },
+  {
+    "id" : 183,
+    "group_id" : 11,
+    "card" : 102010,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC11_ST2_10"
+    ]
+  },
+  {
+    "id" : 184,
+    "group_id" : 11,
+    "card" : 102011,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC11_ST2_11"
+    ]
+  },
+  {
+    "id" : 185,
+    "group_id" : 11,
+    "card" : 102012,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_12"
+    ]
+  },
+  {
+    "id" : 186,
+    "group_id" : 11,
+    "card" : 102013,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_13"
+    ]
+  },
+  {
+    "id" : 187,
+    "group_id" : 11,
+    "card" : 102014,
+    "card_num" : 4,
+    "ai_config" : [
+      "AC11_ST2_14",
+      "AC11_ST2_14_effect"
+    ]
+  },
+  {
+    "id" : 188,
+    "group_id" : 11,
+    "card" : 102015,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC11_ST2_15",
+      "AC11_ST2_15_effect"
+    ]
+  },
+  {
+    "id" : 189,
+    "group_id" : 11,
+    "card" : 102016,
+    "card_num" : 2,
+    "ai_config" : [
+      "AC11_ST2_16",
+      "AC11_ST2_16_effect"
+    ]
+  }
+]

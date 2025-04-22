@@ -1,0 +1,41 @@
+/// <reference types="long" />
+import { Long } from "../../../../cmn/proto/Long";
+import { DtSkillDesc, DtSkillReasonDesc } from "../../Message/DtMessageData";
+import { DtCardBase } from "../DtCardBase";
+import { DtEffect, DtEffectResult } from "../Effect/DtEffect";
+import { DtGroupSkillPlayerBrowse } from "./DtGroupSkillPlayerBrowse";
+import { DtSkillBase } from "./DtSkillBase";
+import { DtSkillCardFiterBase } from "./DtSkillCardFilter/DtSkillCardFiterBase";
+import { DtSkillCardOperateBase } from "./DtSkillCardOperate/DtSkillCardOperateBase";
+import { DtPlayerChooseBase, DtPlayerChooseCardInfo } from "./DtSkillPlayerChoose/DtPlayerChooseBase";
+export declare class DtSkillPlayerBrowse extends DtSkillBase {
+    isPlayerCancel: boolean;
+    isExecute: boolean;
+    Immediately: boolean;
+    cancelInterruptNext: boolean;
+    private parent;
+    private hasOperate;
+    constructor(effect: DtEffect, stage: number, parent: DtGroupSkillPlayerBrowse);
+    needreverse: boolean;
+    private operateCard;
+    private PlayerChooseMachine;
+    private cardFilters;
+    private cardOperates;
+    Reset(): void;
+    SetFilter(filter: DtSkillCardFiterBase): void;
+    SetOperate(op: DtSkillCardOperateBase): void;
+    SetChooseMachine(mcChoose: DtPlayerChooseBase): void;
+    GetChooseMachine(): DtPlayerChooseBase;
+    OnSkillRun(): DtEffectResult;
+    GetPlayerChooseCards(): Array<DtPlayerChooseCardInfo>;
+    private ArrayContaionCard;
+    ConditionCard(card: DtCardBase): boolean;
+    OperateCard(): void;
+    OnPlayerChooseOne(uid: Long): void;
+    OnPlayerChooseMul(uids: Long[]): void;
+    SetOperateCard(card: DtCardBase): void;
+    GetOpCards(): DtCardBase[];
+    IsNeedCheckCardIsBothMeet(): boolean;
+    GetReasonDesc(): DtSkillReasonDesc;
+    GetSkillDesc(): DtSkillDesc;
+}

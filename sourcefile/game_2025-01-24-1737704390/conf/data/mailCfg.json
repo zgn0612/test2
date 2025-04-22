@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 604800,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "",
+    "title" : "",
+    "detail" : ""
+  },
+  {
+    "id" : 2,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 604800,
+    "is_collect" : 1,
+    "is_share" : 1,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_01",
+    "detail" : "mail_detail_01"
+  },
+  {
+    "id" : 3,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 604800,
+    "is_collect" : 1,
+    "is_share" : 1,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_02",
+    "detail" : "mail_detail_02"
+  },
+  {
+    "id" : 6,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 15552000,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_03",
+    "detail" : "mail_detail_03"
+  },
+  {
+    "id" : 5,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 15552000,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_04",
+    "detail" : "mail_detail_04"
+  },
+  {
+    "id" : 7,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 15552000,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_05",
+    "detail" : "mail_detail_05"
+  },
+  {
+    "id" : 8,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 15552000,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_06",
+    "detail" : "mail_detail_06"
+  },
+  {
+    "id" : 9,
+    "mail_icon" : "yj_icon1_03",
+    "expired_time" : 15552000,
+    "is_collect" : 1,
+    "is_share" : 0,
+    "is_del" : 1,
+    "show_type" : 1,
+    "sender" : "sender_name_01",
+    "title" : "mail_title_07",
+    "detail" : "mail_detail_07"
+  }
+]

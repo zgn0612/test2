@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 430001,
+    "name" : "element_name_01",
+    "des" : "element_des_01",
+    "pic" : "Pic_Kahe"
+  },
+  {
+    "id" : 430002,
+    "name" : "element_name_02",
+    "des" : "element_des_02",
+    "pic" : "Pic_Kahe02"
+  },
+  {
+    "id" : 430003,
+    "name" : "element_name_03",
+    "des" : "element_des_03",
+    "pic" : "Pic_Kahe03"
+  }
+]

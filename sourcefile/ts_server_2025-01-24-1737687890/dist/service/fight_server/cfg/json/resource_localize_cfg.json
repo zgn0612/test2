@@ -1,0 +1,289 @@
+[
+  {
+    "id" : "Banner_Deck_01",
+    "CN" : "Banner_Deck_01",
+    "JP" : "Banner_Deck_01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Btn_HallMatching",
+    "CN" : "Btn_HallMatching",
+    "JP" : "Btn_HallMatching_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Btn_HallRank",
+    "CN" : "Btn_HallRank",
+    "JP" : "Btn_HallRank_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Btn_Rankstart",
+    "CN" : "Btn_Rankstart",
+    "JP" : "Btn_Rankstart_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Deck_Detail_01",
+    "CN" : "Deck_Detail_01",
+    "JP" : "Deck_Detail_01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon _Cardcaseshop",
+    "CN" : "Icon _Cardcaseshop",
+    "JP" : "Icon _Cardcaseshop_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_Cardcasetabnew",
+    "CN" : "Icon_Cardcasetabnew",
+    "JP" : "Icon_Cardcasetabnew_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_Logingname",
+    "CN" : "Icon_Logingname",
+    "JP" : "Icon_Logingname_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "icon_shengli02",
+    "CN" : "icon_shengli02",
+    "JP" : "icon_shengli02_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "icon_shibai02",
+    "CN" : "icon_shibai02",
+    "JP" : "icon_shibai02_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_ShopPurchased",
+    "CN" : "Icon_ShopPurchased",
+    "JP" : "Icon_ShopPurchased_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_TaskClaimed",
+    "CN" : "Icon_TaskClaimed",
+    "JP" : "Icon_TaskClaimed_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_Tedian",
+    "CN" : "Icon_Tedian",
+    "JP" : "Icon_Tedian_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Icon_Yihua",
+    "CN" : "Icon_Yihua",
+    "JP" : "Icon_Yihua_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Battlefalse",
+    "CN" : "Pic_Battlefalse",
+    "JP" : "Pic_Battlefalse_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Battlelose",
+    "CN" : "Pic_Battlelose",
+    "JP" : "Pic_Battlelose_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Battlenextstage01",
+    "CN" : "Pic_Battlenextstage01",
+    "JP" : "Pic_Battlenextstage01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_BattleStrikefirstword",
+    "CN" : "Pic_BattleStrikefirstword",
+    "JP" : "Pic_BattleStrikefirstword_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_BattleStrikelaterword",
+    "CN" : "Pic_BattleStrikelaterword",
+    "JP" : "Pic_BattleStrikelaterword_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Battlesucceed",
+    "CN" : "Pic_Battlesucceed",
+    "JP" : "Pic_Battlesucceed_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Battlevictory",
+    "CN" : "Pic_Battlevictory",
+    "JP" : "Pic_Battlevictory_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Dialogueskip",
+    "CN" : "Pic_Dialogueskip",
+    "JP" : "Pic_Dialogueskip_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Hallleftmidbanner01",
+    "CN" : "Pic_Hallleftmidbanner01",
+    "JP" : "Pic_Hallleftmidbanner01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Hallrightmidcardgroup",
+    "CN" : "Pic_Hallrightmidcardgroup",
+    "JP" : "Pic_Hallrightmidcardgroup_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Hallrightmidcollection",
+    "CN" : "Pic_Hallrightmidcollection",
+    "JP" : "Pic_Hallrightmidcollection_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Hallrightmidstorymod",
+    "CN" : "Pic_Hallrightmidstorymod",
+    "JP" : "Pic_Hallrightmidstorymod_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Hallrightmidtask",
+    "CN" : "Pic_Hallrightmidtask",
+    "JP" : "Pic_Hallrightmidtask_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Matchingcancel",
+    "CN" : "Pic_Matchingcancel",
+    "JP" : "Pic_Matchingcancel_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Matchingprepare",
+    "CN" : "Pic_Matchingprepare",
+    "JP" : "Pic_Matchingprepare_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Matchingstart",
+    "CN" : "Pic_Matchingstart",
+    "JP" : "Pic_Matchingstart_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_NutureGrowingicon",
+    "CN" : "Pic_NutureGrowingicon",
+    "JP" : "Pic_NutureGrowingicon_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_RankIocked",
+    "CN" : "Pic_RankIocked",
+    "JP" : "Pic_RankIocked_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Rankseasonname01",
+    "CN" : "Pic_Rankseasonname01",
+    "JP" : "Pic_Rankseasonname01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Rankstreak01",
+    "CN" : "Pic_Rankstreak01",
+    "JP" : "Pic_Rankstreak01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Titlebag",
+    "CN" : "Pic_Titlebag",
+    "JP" : "Pic_Titlebag_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Usermemnutitle",
+    "CN" : "Pic_Usermemnutitle",
+    "JP" : "Pic_Usermemnutitle_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_ZhangjieDone",
+    "CN" : "Pic_ZhangjieDone",
+    "JP" : "Pic_ZhangjieDone_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_ZhangjieliebiaoDone",
+    "CN" : "Pic_ZhangjieliebiaoDone",
+    "JP" : "Pic_ZhangjieliebiaoDone_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_ZhangjieliebiaoUnlocked",
+    "CN" : "Pic_ZhangjieliebiaoUnlocked",
+    "JP" : "Pic_ZhangjieliebiaoUnlocked_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Bannerpic01",
+    "CN" : "Pic_Bannerpic01",
+    "JP" : "Pic_Bannerpic01_jp",
+    "EN" : "",
+    "KO" : ""
+  },
+  {
+    "id" : "Pic_Bannerpic02",
+    "CN" : "Pic_Bannerpic02",
+    "JP" : "Pic_Bannerpic02_jp",
+    "EN" : "",
+    "KO" : ""
+  }
+]

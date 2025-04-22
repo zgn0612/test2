@@ -1,0 +1,42 @@
+/// <reference types="long" />
+import { Long } from "../../../../cmn/proto/Long";
+import { DcgProto } from "../../../../cmn/proto/protoMsg";
+import { DtAreaType } from "../../Data/DtEnum";
+import { DtCardBase } from "../DtCardBase";
+import { DtEffect } from "../Effect/DtEffect";
+import { DtEffectCreator } from "../Effect/DtEffectCreator";
+import { DtSkillRunType } from "./DtSkillBase";
+import { DtSkillPlayerBrowse } from "./DtSkillPlayerBrowse";
+import { DtPlayerChooseCardInfo } from "./DtSkillPlayerChoose/DtPlayerChooseBase";
+export declare class DtGroupSkillPlayerBrowse {
+    basicStatge: number;
+    parent: DtEffectCreator;
+    effect: DtEffect;
+    private ShowType;
+    private area;
+    private skills;
+    constructor(effect: DtEffect, callobj: DtEffectCreator, ShowType: DcgProto.E_SHOW_TO_PLAYER_TYPE, area: DtAreaType);
+    private funcGetCars;
+    private cards;
+    private initSkill;
+    private hasNotifyPlayerOverBrowse;
+    private needCheckCardIsBothMeet;
+    SetCards(func: () => Array<DtCardBase>): void;
+    GetCards(): DtCardBase[];
+    GetHasSelectCards(): Array<DtCardBase>;
+    GetHasSuccesscards(): Array<DtCardBase>;
+    RegisterToEffect(effect: DtEffect): void;
+    private Init;
+    SetFirstType(type: DtSkillRunType): void;
+    private InitCardsEffect;
+    private NotifyPlayerOverBrowse;
+    private OverBrowseDoOperate;
+    private Get2ClientMessageMgr;
+    private GetPlayer;
+    SetOperate(func: (skill: DtSkillPlayerBrowse) => void, isExecute?: boolean): void;
+    GetNewChooseCardsInfoWithMeetCheck(browse: DtSkillPlayerBrowse): Array<DtPlayerChooseCardInfo>;
+    OnSkillPlayerChooseOne(skill: DtSkillPlayerBrowse, uid: Long): void;
+    OnSkillPlayerChooseMul(skill: DtSkillPlayerBrowse, uids: Long[]): void;
+    OnSKillPlayerChooseALL(skill: DtSkillPlayerBrowse): void;
+    DisableAllExecuteSkill(): void;
+}

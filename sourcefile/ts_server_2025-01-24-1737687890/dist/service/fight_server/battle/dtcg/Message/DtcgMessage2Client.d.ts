@@ -1,0 +1,46 @@
+/// <reference types="long" />
+import { Long } from "../../../cmn/proto/Long";
+import { DcgProto } from "../../../cmn/proto/protoMsg";
+import { DtCardBase } from "../Card/DtCardBase";
+import { DtEffect } from "../Card/Effect/DtEffect";
+import { DtPlayerChooseCardInfo } from "../Card/Skill/DtSkillPlayerChoose/DtPlayerChooseBase";
+import { DtAreaType, DtBattlePhase, DtCompareExtend, DtDegenerateType, DtGameOverReason } from "../Data/DtEnum";
+import { DtBattleManager } from "../DtBattleManager";
+import { DtTriggerEffectWithMsg } from "../DtTriggerEffectWithMsg";
+import { DtFsmAttackType } from "../Fsm/Attack/DtFsmAttackEnum";
+import { DtPlayer } from "../Player/DtPlayer";
+import { ClientShowType, DtProtoEnum_Compare, DtProtoEnum_MoveReason } from "./DtMessageData";
+export declare class DtcgMessage2Client {
+    private parent;
+    private questId;
+    constructor(parent: DtBattleManager);
+    private ApplyAQuestId;
+    InitMessage(Player1: DtPlayer, player2: DtPlayer): void;
+    SetBattleStateMessage(player: DtPlayer, state: DtBattlePhase, round: number): void;
+    DigimonSetCost(cost: number): void;
+    MoveCardMessage(player: DtPlayer, card: DtCardBase, from: DtAreaType, to: DtAreaType, reason: DtProtoEnum_MoveReason): void;
+    GameOver(player: DtPlayer, reason: DtGameOverReason): void;
+    EvoDigimon(player: DtPlayer, cardEvo: DtCardBase, cardOri: DtCardBase): void;
+    FusionEvoDigimon(player: DtPlayer, cardEvo: DtCardBase, cardTop: DtCardBase, cardBottom: DtCardBase): void;
+    DegenerateDigimon(player: DtPlayer, cardDeg: DtCardBase, degenProcessCards: Array<DtCardBase>, type: DtDegenerateType, caster: DtCardBase): void;
+    UpdateCardDetails(player: DtPlayer, card: DtCardBase): void;
+    UpdateGameBattleCardInfo(player1: DtPlayer, player2: DtPlayer): void;
+    PlayerChoose(card: DtCardBase, type: DtProtoEnum_Compare, chooseCards: Array<DtCardBase>, nums: number, effect: DtEffect, effidx: number, cancancel?: boolean): void;
+    PlayerChooseCard(player: DtPlayer, card: DtCardBase, type: DtProtoEnum_Compare, chooseCards: Array<DtPlayerChooseCardInfo>, nums: number, effect: DtEffect, effidx: number, cancancel?: boolean, compareExtend?: DtCompareExtend): void;
+    PlayerdDefenseSelect(player: DtPlayer, atkCard: DtCardBase, atkType: DtFsmAttackType, defenseCards: Array<DtCardBase>): void;
+    PlayerSelectOptions(player: DtPlayer, num: number, effect: DtEffect, index?: number): void;
+    CardsExcavated(player: DtPlayer, type: DcgProto.E_SHOW_TO_PLAYER_TYPE, where: DtAreaType, cards: Array<DtCardBase>): DcgProto.S_PlayerExcavated;
+    PlayerSelectEffectActivate(player: DtPlayer, eff: Array<DtTriggerEffectWithMsg>): void;
+    reconnectClientShowList: Array<DcgProto.S_ClientShow>;
+    ClientShow(player: DtPlayer, type: ClientShowType, cardArr: Array<Long>, value: string): void;
+    ClientGameEvent(eventid: number): void;
+    SaveOrDeleteClientShow(data: DcgProto.S_ClientShow): void;
+    UpdateBattleDetail(waitPlayerId: Long, Player1: DtPlayer, player2: DtPlayer): void;
+    GetReconnectData(playerID: Long): DcgProto.S_ReconnectData;
+    GetCardsMsgData(cards: Array<DtCardBase>): Array<DcgProto.IS_OtherCard>;
+    GetReconnectCardInfo(card: DtCardBase): DcgProto.S_ReconnectCard;
+    ToProto_OtgherCard(card: DtCardBase): DcgProto.S_OtherCard;
+    ToProto_DetailCard(card: DtCardBase): DcgProto.S_OtherCardDetail;
+    Clear(): void;
+    DeepCopy(type: any, data: any): any;
+}

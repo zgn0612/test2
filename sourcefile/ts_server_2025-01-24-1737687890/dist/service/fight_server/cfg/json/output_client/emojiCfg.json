@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "fixed_term" : "fixed_term_1",
+    "emotion" : "",
+    "effect" : ""
+  },
+  {
+    "id" : 2,
+    "fixed_term" : "fixed_term_2",
+    "emotion" : "",
+    "effect" : ""
+  },
+  {
+    "id" : 3,
+    "fixed_term" : "fixed_term_3",
+    "emotion" : "",
+    "effect" : ""
+  },
+  {
+    "id" : 4,
+    "fixed_term" : "fixed_term_4",
+    "emotion" : "",
+    "effect" : ""
+  },
+  {
+    "id" : 5,
+    "fixed_term" : "fixed_term_5",
+    "emotion" : "",
+    "effect" : ""
+  }
+]

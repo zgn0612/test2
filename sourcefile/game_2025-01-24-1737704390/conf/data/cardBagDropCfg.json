@@ -1,0 +1,6674 @@
+[
+  {
+    "id" : 103,
+    "reward_id" : 115001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 115080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 115084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 181084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 181101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 181107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 181110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 115111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 115113,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 115114,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 181114,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 115115,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 181115,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116063,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 116112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 116081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 102,
+    "reward_id" : 116107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 101,
+    "reward_id" : 116109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 116110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 116111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 103,
+    "reward_id" : 182049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 182082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 182111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 105,
+    "reward_id" : 182112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 103011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 104,
+    "reward_id" : 130013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 117111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 117112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117063,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 117108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 117110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 118115,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118063,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 118087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 119024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 119112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 119061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 119070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 119076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 119081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 120033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120061,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 120063,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 130028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 117018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 118017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 118092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 119007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 119020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 183111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 183112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 119086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 195086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 175086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 119087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 185093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 185092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 119092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 119111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 185111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 185112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 117006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 108,
+    "reward_id" : 183082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 107,
+    "reward_id" : 118076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 185081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 195081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 111,
+    "reward_id" : 184115,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 183019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 184035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 186033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 184048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 185087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 109,
+    "reward_id" : 184033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 184059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 195087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 110,
+    "reward_id" : 184062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 184011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 118016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 118113,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 184113,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119013,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 185019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186001,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186007,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120008,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120009,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120010,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120011,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120012,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120014,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120015,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186016,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120017,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186018,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120093,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120095,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 184025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 118030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 118114,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 184114,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 185088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186002,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186019,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120020,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120021,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120022,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120023,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120024,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120025,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120026,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120027,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120028,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120096,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 117039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 184094,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119098,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186003,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120041,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120042,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120043,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186044,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120099,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119056,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119058,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 185089,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119100,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119101,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186004,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120045,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120046,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 186047,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120048,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120049,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120050,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120051,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120052,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120053,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120054,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120102,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 185085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 185091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 186082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 186084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120085,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120110,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 117070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 117074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 118072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 118075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 184075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119063,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 185090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119103,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186005,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120055,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120057,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120059,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120060,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120062,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186064,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120065,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120066,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186067,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120090,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120104,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120105,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 120111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 186111,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 117084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 117086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 117087,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 117092,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 118006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118083,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 118084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 118088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 184088,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 118097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 184097,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 119082,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 119106,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 119107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 119108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186006,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 186068,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120069,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120070,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120071,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120072,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120073,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120074,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120075,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120076,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120077,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186078,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120079,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120080,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 120081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 186081,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120091,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 113,
+    "reward_id" : 120107,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 115,
+    "reward_id" : 120108,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 114,
+    "reward_id" : 120109,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 120112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 117,
+    "reward_id" : 186112,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130029,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130030,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130031,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130032,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130033,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130034,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130035,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130036,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130037,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130038,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130039,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 130040,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 185086,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "id" : 116,
+    "reward_id" : 191084,
+    "reward_num" : 1,
+    "weight" : 1,
+    "min_lv" : 1,
+    "max_lv" : 100
+  }
+]

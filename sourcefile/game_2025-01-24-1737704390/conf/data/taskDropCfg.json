@@ -1,0 +1,149 @@
+[
+  {
+    "mid" : 101,
+    "task_id" : 20001,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 101,
+    "task_id" : 20002,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 101,
+    "task_id" : 20003,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 102,
+    "task_id" : 20004,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 102,
+    "task_id" : 20005,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 102,
+    "task_id" : 20006,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 103,
+    "task_id" : 20007,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 103,
+    "task_id" : 20008,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 103,
+    "task_id" : 20009,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 104,
+    "task_id" : 20010,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 104,
+    "task_id" : 20011,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 104,
+    "task_id" : 20012,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 105,
+    "task_id" : 20013,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 105,
+    "task_id" : 20014,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 105,
+    "task_id" : 20015,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 106,
+    "task_id" : 20016,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 106,
+    "task_id" : 20017,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 106,
+    "task_id" : 20018,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 107,
+    "task_id" : 20019,
+    "weight" : 40,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 107,
+    "task_id" : 20020,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  },
+  {
+    "mid" : 107,
+    "task_id" : 20021,
+    "weight" : 30,
+    "min_lv" : 1,
+    "max_lv" : 100
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id" : 1000,
+    "content" : 400001,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_1",
+    "goods_desc" : "goods_desc_1",
+    "goods_pic" : "Pic_Kahe",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s01"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1001,
+    "content" : 400002,
+    "data_chip" : 500,
+    "memory_module" : 500,
+    "card" : 0,
+    "goods_name" : "goods_name_2",
+    "goods_desc" : "goods_desc_2",
+    "goods_pic" : "Pic_Kahe02",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s02"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1002,
+    "content" : 410001,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_3",
+    "goods_desc" : "goods_desc_3",
+    "goods_pic" : "Pic_Kabei01",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s03"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1003,
+    "content" : 410002,
+    "data_chip" : 500,
+    "memory_module" : 500,
+    "card" : 0,
+    "goods_name" : "goods_name_4",
+    "goods_desc" : "goods_desc_4",
+    "goods_pic" : "Pic_Kabei02",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1004,
+    "content" : 420001,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_5",
+    "goods_desc" : "goods_desc_5",
+    "goods_pic" : "Pic_Kahe",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s01"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1005,
+    "content" : 420002,
+    "data_chip" : 500,
+    "memory_module" : 100,
+    "card" : 0,
+    "goods_name" : "goods_name_6",
+    "goods_desc" : "goods_desc_6",
+    "goods_pic" : "Pic_Kahe02",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s02"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1006,
+    "content" : 440001,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_9",
+    "goods_desc" : "goods_desc_9",
+    "goods_pic" : "Icon_Role01",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s01"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1007,
+    "content" : 440002,
+    "data_chip" : 500,
+    "memory_module" : 500,
+    "card" : 0,
+    "goods_name" : "goods_name_10",
+    "goods_desc" : "goods_desc_10",
+    "goods_pic" : "Icon_Role02",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s02"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1008,
+    "content" : 450001,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_11",
+    "goods_desc" : "goods_desc_11",
+    "goods_pic" : "Icon_Role01",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s03"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1009,
+    "content" : 450002,
+    "data_chip" : 500,
+    "memory_module" : 500,
+    "card" : 0,
+    "goods_name" : "goods_name_12",
+    "goods_desc" : "goods_desc_12",
+    "goods_pic" : "Icon_Role02",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1010,
+    "content" : 600001,
+    "data_chip" : 1000,
+    "memory_module" : 1000,
+    "card" : 0,
+    "goods_name" : "goods_name_17",
+    "goods_desc" : "goods_desc_17",
+    "goods_pic" : "Icon_Role03",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1016,
+    "content" : 300009,
+    "data_chip" : 2000,
+    "memory_module" : 2000,
+    "card" : 0,
+    "goods_name" : "goods_name_19",
+    "goods_desc" : "goods_desc_19",
+    "goods_pic" : "Icon_Kazucao",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_04",
+      "Banner_05",
+      "Banner_06"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "1.0"
+  },
+  {
+    "id" : 1017,
+    "content" : 300010,
+    "data_chip" : 100,
+    "memory_module" : 100,
+    "card" : 0,
+    "goods_name" : "",
+    "goods_desc" : "",
+    "goods_pic" : "",
+    "goods_type_id" : 0,
+    "banner_pic" : [],
+    "pre_pic" : [],
+    "reco_goods" : "1.0"
+  },
+  {
+    "id" : 1018,
+    "content" : 503000,
+    "data_chip" : 200,
+    "memory_module" : 200,
+    "card" : 0,
+    "goods_name" : "goods_name_20",
+    "goods_desc" : "goods_desc_20",
+    "goods_pic" : "Icon_Tongxingzheng",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1019,
+    "content" : 503001,
+    "data_chip" : 500,
+    "memory_module" : 500,
+    "card" : 0,
+    "goods_name" : "goods_name_20",
+    "goods_desc" : "goods_desc_20",
+    "goods_pic" : "Icon_Tongxingzheng",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_03"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s04"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1020,
+    "content" : 600011,
+    "data_chip" : 0,
+    "memory_module" : 0,
+    "card" : 0,
+    "goods_name" : "goods_name_22",
+    "goods_desc" : "goods_desc_22",
+    "goods_pic" : "Deck_11",
+    "goods_type_id" : 1,
+    "banner_pic" : [
+      "Banner_01",
+      "Banner_02",
+      "Banner_04"
+    ],
+    "pre_pic" : [
+      "Banner_Role_s05"
+    ],
+    "reco_goods" : "0.0"
+  },
+  {
+    "id" : 1021,
+    "content" : 300002,
+    "data_chip" : 100,
+    "memory_module" : 100,
+    "card" : 0,
+    "goods_name" : "goods_name_23",
+    "goods_desc" : "goods_desc_23",
+    "goods_pic" : "Deck_12",
+    "goods_type_id" : 0,
+    "banner_pic" : [],
+    "pre_pic" : [],
+    "reco_goods" : "0.0"
+  }
+]

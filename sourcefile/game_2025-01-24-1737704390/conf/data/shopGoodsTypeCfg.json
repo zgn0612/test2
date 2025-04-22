@@ -1,0 +1,27 @@
+[
+  {
+    "goods_type_id" : 1,
+    "type_name" : "type_name_1",
+    "type_desc" : "type_desc_1"
+  },
+  {
+    "goods_type_id" : 2,
+    "type_name" : "type_name_2",
+    "type_desc" : "type_desc_2"
+  },
+  {
+    "goods_type_id" : 3,
+    "type_name" : "type_name_3",
+    "type_desc" : "type_desc_3"
+  },
+  {
+    "goods_type_id" : 4,
+    "type_name" : "type_name_4",
+    "type_desc" : "type_desc_4"
+  },
+  {
+    "goods_type_id" : 5,
+    "type_name" : "type_name_5",
+    "type_desc" : "type_desc_5"
+  }
+]

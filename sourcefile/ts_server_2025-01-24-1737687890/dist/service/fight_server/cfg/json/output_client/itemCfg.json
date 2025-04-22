@@ -1,0 +1,478 @@
+[
+  {
+    "id" : 300001,
+    "name" : "item_name_300001",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300001",
+    "item_icon" : "Item_Icon_300001",
+    "skip_page" : []
+  },
+  {
+    "id" : 300002,
+    "name" : "item_name_300002",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300002",
+    "item_icon" : "Item_Icon_300002",
+    "skip_page" : []
+  },
+  {
+    "id" : 300003,
+    "name" : "item_name_300003",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300003",
+    "item_icon" : "Item_Icon_300003",
+    "skip_page" : []
+  },
+  {
+    "id" : 300004,
+    "name" : "item_name_300004",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300004",
+    "item_icon" : "Item_Icon_300004",
+    "skip_page" : []
+  },
+  {
+    "id" : 300005,
+    "name" : "item_name_300005",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300005",
+    "item_icon" : "Item_Icon_300005",
+    "skip_page" : []
+  },
+  {
+    "id" : 300006,
+    "name" : "item_name_300006",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300006",
+    "item_icon" : "Item_Icon_300006",
+    "skip_page" : []
+  },
+  {
+    "id" : 300007,
+    "name" : "item_name_300007",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300007",
+    "item_icon" : "Item_Icon_300007",
+    "skip_page" : []
+  },
+  {
+    "id" : 300008,
+    "name" : "item_name_300008",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300008",
+    "item_icon" : "Item_Icon_300008",
+    "skip_page" : []
+  },
+  {
+    "id" : 300009,
+    "name" : "item_name_300009",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      5
+    ],
+    "item_desc" : "item_desc_300009",
+    "item_icon" : "Item_Icon_300009",
+    "skip_page" : []
+  },
+  {
+    "id" : 300010,
+    "name" : "item_name_300010",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      2
+    ],
+    "item_desc" : "item_desc_300010",
+    "item_icon" : "Item_Icon_300010",
+    "skip_page" : []
+  },
+  {
+    "id" : 300011,
+    "name" : "item_name_300011",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999999999,
+    "source_id" : [
+      1
+    ],
+    "item_desc" : "item_desc_300011",
+    "item_icon" : "Item_Icon_300011",
+    "skip_page" : []
+  },
+  {
+    "id" : 300012,
+    "name" : "item_name_300012",
+    "type" : 0,
+    "show_in_pack" : 2,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300012",
+    "item_icon" : "",
+    "skip_page" : [
+      90001,
+      90002,
+      90003
+    ]
+  },
+  {
+    "id" : 300013,
+    "name" : "item_name_300013",
+    "type" : 0,
+    "show_in_pack" : 0,
+    "can_use" : 0,
+    "can_batch_use" : 0,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300013",
+    "item_icon" : "",
+    "skip_page" : []
+  },
+  {
+    "id" : 300100,
+    "name" : "item_name_300100",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507001,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300100",
+    "item_icon" : "Icon_Eggblack",
+    "skip_page" : []
+  },
+  {
+    "id" : 300101,
+    "name" : "item_name_300101",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507002,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300101",
+    "item_icon" : "Icon_Eggblue",
+    "skip_page" : []
+  },
+  {
+    "id" : 300102,
+    "name" : "item_name_300102",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507003,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300102",
+    "item_icon" : "Icon_Eggred",
+    "skip_page" : []
+  },
+  {
+    "id" : 300103,
+    "name" : "item_name_300103",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507004,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300103",
+    "item_icon" : "Icon_Eggwhite",
+    "skip_page" : []
+  },
+  {
+    "id" : 300104,
+    "name" : "item_name_300104",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507005,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300104",
+    "item_icon" : "Icon_Eggyellow",
+    "skip_page" : []
+  },
+  {
+    "id" : 300105,
+    "name" : "item_name_300105",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507006,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300105",
+    "item_icon" : "Icon_Eggyellow",
+    "skip_page" : []
+  },
+  {
+    "id" : 300106,
+    "name" : "item_name_300106",
+    "type" : 3,
+    "show_in_pack" : 0,
+    "can_use" : 1,
+    "can_batch_use" : 0,
+    "param_1" : 1,
+    "param_2" : 507007,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 999,
+    "source_id" : [
+      3,
+      4
+    ],
+    "item_desc" : "item_desc_300106",
+    "item_icon" : "Icon_Eggyellow",
+    "skip_page" : []
+  },
+  {
+    "id" : 300200,
+    "name" : "item_name_300200",
+    "type" : 4,
+    "show_in_pack" : 2,
+    "can_use" : 1,
+    "can_batch_use" : 1,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [
+      "300100:1",
+      "300101:1",
+      "300102:1",
+      "300103:1",
+      "300104:1",
+      "300105:1",
+      "300106:1"
+    ],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300200",
+    "item_icon" : "",
+    "skip_page" : []
+  },
+  {
+    "id" : 300201,
+    "name" : "item_name_300201",
+    "type" : 4,
+    "show_in_pack" : 1,
+    "can_use" : 1,
+    "can_batch_use" : 1,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [
+      "440002:1",
+      "450002:1",
+      "400003:1",
+      "410003:1",
+      "300001:1000"
+    ],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300201",
+    "item_icon" : "",
+    "skip_page" : []
+  },
+  {
+    "id" : 300202,
+    "name" : "item_name_300202",
+    "type" : 4,
+    "show_in_pack" : 2,
+    "can_use" : 1,
+    "can_batch_use" : 1,
+    "param_1" : 0,
+    "param_2" : 0,
+    "param_3" : [],
+    "param_4" : [
+      "181114:1",
+      "182111:1",
+      "187112:1",
+      "188111:1",
+      "202073:1",
+      "202074:1"
+    ],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300202",
+    "item_icon" : "",
+    "skip_page" : []
+  },
+  {
+    "id" : 300300,
+    "name" : "item_name_300300",
+    "type" : 2,
+    "show_in_pack" : 2,
+    "can_use" : 1,
+    "can_batch_use" : 1,
+    "param_1" : 100,
+    "param_2" : 300001,
+    "param_3" : [],
+    "param_4" : [],
+    "num_limit" : 99999999,
+    "source_id" : [],
+    "item_desc" : "item_desc_300300",
+    "item_icon" : "",
+    "skip_page" : []
+  }
+]

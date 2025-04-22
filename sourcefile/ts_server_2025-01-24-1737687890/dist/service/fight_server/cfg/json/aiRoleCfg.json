@@ -1,0 +1,354 @@
+[
+  {
+    "id" : 10001,
+    "name" : "ai_name_10001",
+    "elo" : 1500,
+    "group_id" : 1,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC1"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10002,
+    "name" : "ai_name_10002",
+    "elo" : 1500,
+    "group_id" : 2,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC2"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10003,
+    "name" : "ai_name_10003",
+    "elo" : 1500,
+    "group_id" : 3,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC3"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10004,
+    "name" : "ai_name_10004",
+    "elo" : 1500,
+    "group_id" : 4,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC4"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10005,
+    "name" : "ai_name_10005",
+    "elo" : 1500,
+    "group_id" : 5,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC5"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10006,
+    "name" : "ai_name_10006",
+    "elo" : 1500,
+    "group_id" : 6,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC6"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10007,
+    "name" : "ai_name_10007",
+    "elo" : 1500,
+    "group_id" : 7,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC7"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10008,
+    "name" : "ai_name_10008",
+    "elo" : 1500,
+    "group_id" : 8,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC8"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10009,
+    "name" : "ai_name_10009",
+    "elo" : 1500,
+    "group_id" : 9,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC9"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10010,
+    "name" : "ai_name_10010",
+    "elo" : 1500,
+    "group_id" : 10,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC10"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10011,
+    "name" : "ai_name_10011",
+    "elo" : 1500,
+    "group_id" : 11,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC11"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10012,
+    "name" : "ai_name_10012",
+    "elo" : 1500,
+    "group_id" : 12,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC12"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 10013,
+    "name" : "ai_name_10013",
+    "elo" : 1500,
+    "group_id" : 13,
+    "new_player_battle" : 0,
+    "ai" : [
+      "AC13"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50000,
+    "name" : "ai_name_50000",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50000,
+    "ai" : [
+      "AI_TEST_1_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 0,
+    "player_frame" : 0,
+    "ai_name" : "B",
+    "ai_avatar" : 440001,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50001,
+    "name" : "ai_name_50001",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50001,
+    "ai" : [],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440003,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50002,
+    "name" : "ai_name_50002",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50002,
+    "ai" : [
+      "AI_TUTOR_2_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440003,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50003,
+    "name" : "ai_name_50003",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50003,
+    "ai" : [
+      "AI_TUTOR_3_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440005,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50004,
+    "name" : "ai_name_50004",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50004,
+    "ai" : [
+      "AI_TUTOR_4_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440005,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50005,
+    "name" : "ai_name_50005",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50005,
+    "ai" : [
+      "AI_TUTOR_5_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440005,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50006,
+    "name" : "ai_name_50006",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50006,
+    "ai" : [
+      "AI_TUTOR_6_StartRound"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440005,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50007,
+    "name" : "ai_name_50007",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50007,
+    "ai" : [
+      "AI_TUTOR_7_StartRound",
+      "AI_TUTOR_7"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440006,
+    "ai_frame" : 0
+  },
+  {
+    "id" : 50008,
+    "name" : "ai_name_50008",
+    "elo" : 0,
+    "group_id" : 0,
+    "new_player_battle" : 50008,
+    "ai" : [
+      "AI_TUTOR_8_StartRound",
+      "AI_TUTOR_8"
+    ],
+    "player_name" : "",
+    "player_avatar" : 440004,
+    "player_frame" : 0,
+    "ai_name" : "NPC",
+    "ai_avatar" : 440006,
+    "ai_frame" : 0
+  }
+]

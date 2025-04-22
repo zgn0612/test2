@@ -1,0 +1,248 @@
+[
+  {
+    "mid" : 20001,
+    "type" : 2,
+    "cond_type" : 1,
+    "param1" : 5,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 0
+  },
+  {
+    "mid" : 20002,
+    "type" : 2,
+    "cond_type" : 1,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 0
+  },
+  {
+    "mid" : 20003,
+    "type" : 2,
+    "cond_type" : 2,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 3
+  },
+  {
+    "mid" : 20004,
+    "type" : 2,
+    "cond_type" : 2,
+    "param1" : 20,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 3
+  },
+  {
+    "mid" : 20005,
+    "type" : 2,
+    "cond_type" : 3,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 3
+  },
+  {
+    "mid" : 20006,
+    "type" : 2,
+    "cond_type" : 3,
+    "param1" : 20,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 3
+  },
+  {
+    "mid" : 20007,
+    "type" : 2,
+    "cond_type" : 4,
+    "param1" : 500,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 0
+  },
+  {
+    "mid" : 20008,
+    "type" : 2,
+    "cond_type" : 4,
+    "param1" : 1000,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 0
+  },
+  {
+    "mid" : 20009,
+    "type" : 2,
+    "cond_type" : 5,
+    "param1" : 1,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 6
+  },
+  {
+    "mid" : 20010,
+    "type" : 2,
+    "cond_type" : 5,
+    "param1" : 3,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 6
+  },
+  {
+    "mid" : 20011,
+    "type" : 2,
+    "cond_type" : 6,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [
+      1
+    ],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20012,
+    "type" : 2,
+    "cond_type" : 6,
+    "param1" : 30,
+    "param2" : 0,
+    "param3" : [
+      1
+    ],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20013,
+    "type" : 2,
+    "cond_type" : 7,
+    "param1" : 1,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20014,
+    "type" : 2,
+    "cond_type" : 7,
+    "param1" : 5,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20015,
+    "type" : 2,
+    "cond_type" : 8,
+    "param1" : 1,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20016,
+    "type" : 2,
+    "cond_type" : 8,
+    "param1" : 5,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20017,
+    "type" : 2,
+    "cond_type" : 9,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20018,
+    "type" : 2,
+    "cond_type" : 9,
+    "param1" : 30,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20019,
+    "type" : 2,
+    "cond_type" : 10,
+    "param1" : 5,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20020,
+    "type" : 2,
+    "cond_type" : 10,
+    "param1" : 10,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20021,
+    "type" : 2,
+    "cond_type" : 11,
+    "param1" : 3,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 5,
+    "reward" : 0,
+    "skip_page" : 1
+  },
+  {
+    "mid" : 20022,
+    "type" : 2,
+    "cond_type" : 11,
+    "param1" : 5,
+    "param2" : 0,
+    "param3" : [],
+    "points" : 10,
+    "reward" : 0,
+    "skip_page" : 1
+  }
+]

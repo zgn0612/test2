@@ -1,0 +1,41 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const DtEnum_1 = require("../../Data/DtEnum");
+const DtMessageData_1 = require("../../Message/DtMessageData");
+const DtEffectType_1 = require("../Effect/DtEffectType");
+const DtEnhanceEffectCreatorts_1 = require("../Effect/DtEnhanceEffectCreatorts");
+const DtConTriggerDiscardEvoOrigin_1 = require("../Effect/TriggerCondition/DtConTriggerDiscardEvoOrigin");
+const DtCardFilter_CardType_1 = require("../Skill/DtSkillCardFilter/DtCardFilter_CardType");
+const DtCardOperate_AddInheritAttBuff_1 = require("../Skill/DtSkillCardOperate/DtCardOperate_AddInheritAttBuff");
+class EC_P_032_O_1 extends DtEnhanceEffectCreatorts_1.default {
+    SetEffect() {
+        this.SetOriginNewEffect((effect) => {
+            effect.SetTriggerType(DtEffectType_1.DtEffectType.TriggerDiscardEvoOrigin);
+            effect.SetTriggerArea(DtEnum_1.DtAreaType.OTHER_EVO | DtEnum_1.DtAreaType.GY);
+            let con = new DtConTriggerDiscardEvoOrigin_1.DtConTriggerDiscardEvoOrigin(DtEnum_1.DtEffectRoundValid.Self, DtMessageData_1.DtProtoEnum_MoveReason.BaolieDicard);
+            con.SetCondition(this, (d) => {
+                return d.receiveCard == this.parent;
+            });
+            effect.SetTriggerCondition(con);
+            let skill = this.SetSkillPlayerChoose_Single(effect, DtEnum_1.DtSkillTargetToPlayer.Self, 1);
+            skill.GetMachineFilter().GetCardsWitchAreaData(DtEnum_1.DtSkillTargetToPlayer.Self, DtEnum_1.DtAreaType.BATTLE_AREA);
+            this.OnCommonAreaSetFilter(skill.GetMachineFilter());
+            this.OnCommonAreaSetOperate(skill.GetMachineOperate());
+        });
+    }
+    ClientShow() {
+        let effect = this.GetNewEffect();
+        let skill = this.SetSkillPlayerChoose_Single(effect, DtEnum_1.DtSkillTargetToPlayer.Self, 1);
+        skill.GetMachineFilter().GetCardsWitchAreaData(DtEnum_1.DtSkillTargetToPlayer.Self, DtEnum_1.DtAreaType.BATTLE_AREA);
+        this.OnCommonAreaSetFilter(skill.GetMachineFilter());
+        this.OnCommonAreaSetOperate(skill.GetMachineOperate());
+    }
+    OnCommonAreaSetFilter(mcFliter) {
+        mcFliter.SetFilter(new DtCardFilter_CardType_1.DtCardFilter_CardType(DtEnum_1.DtCardType.Monster));
+    }
+    OnCommonAreaSetOperate(mcOperate) {
+        mcOperate.SetOperate(new DtCardOperate_AddInheritAttBuff_1.DtCardOperate_AddInheritAttBuff(DtEnum_1.DtBuffType.DISTURB, DtEnum_1.DtBuffDurationType.RoundOver));
+    }
+}
+exports.default = EC_P_032_O_1;
+//# sourceMappingURL=EC_P_032_O_1.js.map

@@ -1,0 +1,53 @@
+[
+  {
+    "id" : 301,
+    "drop_pool" : [
+      "101:45",
+      "102:25",
+      "103:15"
+    ],
+    "guarant_draw" : [
+      103
+    ],
+    "total_pack" : 0,
+    "total_guarant_draw" : [
+      103
+    ],
+    "drop_num" : 8
+  },
+  {
+    "id" : 302,
+    "drop_pool" : [
+      "107:45",
+      "108:25",
+      "109:15",
+      "110:10"
+    ],
+    "guarant_draw" : [
+      110
+    ],
+    "total_pack" : 0,
+    "total_guarant_draw" : [
+      110
+    ],
+    "drop_num" : 8
+  },
+  {
+    "id" : 303,
+    "drop_pool" : [
+      "113:45",
+      "114:25",
+      "115:15",
+      "116:10",
+      "117:10"
+    ],
+    "guarant_draw" : [
+      117
+    ],
+    "total_pack" : 0,
+    "total_guarant_draw" : [
+      117
+    ],
+    "drop_num" : 8
+  }
+]

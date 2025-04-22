@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "level" : 1,
+    "fight_num" : 4
+  },
+  {
+    "id" : 2,
+    "level" : 2,
+    "fight_num" : 8
+  },
+  {
+    "id" : 3,
+    "level" : 3,
+    "fight_num" : 16
+  },
+  {
+    "id" : 4,
+    "level" : 4,
+    "fight_num" : 32
+  }
+]

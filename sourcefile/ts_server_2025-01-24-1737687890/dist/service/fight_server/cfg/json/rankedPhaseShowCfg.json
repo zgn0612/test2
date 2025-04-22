@@ -1,0 +1,32 @@
+[
+  {
+    "phase_id" : 1,
+    "phase_name" : "phase_name_no1",
+    "phase_icon" : "Icon_Rankbadges01"
+  },
+  {
+    "phase_id" : 2,
+    "phase_name" : "phase_name_no2",
+    "phase_icon" : "Icon_Rankbadges02"
+  },
+  {
+    "phase_id" : 3,
+    "phase_name" : "phase_name_no3",
+    "phase_icon" : "Icon_Rankbadges03"
+  },
+  {
+    "phase_id" : 4,
+    "phase_name" : "phase_name_no4",
+    "phase_icon" : "Icon_Rankbadges04"
+  },
+  {
+    "phase_id" : 5,
+    "phase_name" : "phase_name_no5",
+    "phase_icon" : "Icon_Rankbadges05"
+  },
+  {
+    "phase_id" : 6,
+    "phase_name" : "phase_name_no6",
+    "phase_icon" : "Icon_Rankbadges06"
+  }
+]

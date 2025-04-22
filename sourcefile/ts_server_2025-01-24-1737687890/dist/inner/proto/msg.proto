@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package inner;
+
+service FightService {
+  rpc Create(ReqData) returns (RespData);
+  rpc Init(ReqData) returns (RespData);
+  rpc Ready(ReqData) returns (RespData);
+  rpc Battle(ReqData) returns (RespData);
+  rpc Destroy(ReqData) returns (RespData);
+  rpc Reconnect(ReqData) returns (RespData);
+  rpc Gm(ReqData) returns (RespData);
+  rpc Quit(ReqData) returns (RespData);
+  rpc Ping(ReqData) returns (RespData);
+  rpc Turn(ReqData) returns (RespData);
+  rpc Offset(ReqData) returns (RespData);
+  rpc BattleMsg(ReqData) returns (RespData);
+}
+
+message ReqData{
+  int64 RoomIID = 1;
+  bytes ReqMsg= 2;
+}
+
+message RespData{
+  int32 ErrorCode = 1;
+  bytes RespMsg = 2;
+}

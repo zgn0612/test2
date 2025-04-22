@@ -1,0 +1,30 @@
+[
+  {
+    "mid1" : 1234567890,
+    "test_float" : 123.456789,
+    "test_str" : "我是字符串",
+    "test_array" : [
+      "元素1",
+      "元素2",
+      "元素3"
+    ],
+    "test_dict_key_1" : "1001.0",
+    "test_dict_value_1" : 5,
+    "test_dict_key_2" : "1002.0",
+    "test_dict_value_2" : 6
+  },
+  {
+    "mid1" : 1234567890,
+    "test_float" : 123.456789,
+    "test_str" : "我是字符串",
+    "test_array" : [
+      "元素1",
+      "元素2",
+      "元素3"
+    ],
+    "test_dict_key_1" : "1001.0",
+    "test_dict_value_1" : 5,
+    "test_dict_key_2" : "1002.0",
+    "test_dict_value_2" : 6
+  }
+]

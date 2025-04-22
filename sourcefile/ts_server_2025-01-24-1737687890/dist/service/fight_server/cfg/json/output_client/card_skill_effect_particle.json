@@ -1,0 +1,587 @@
+[
+  {
+    "id" : 1,
+    "skill_type" : 2,
+    "skill_id" : 11710512,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 2,
+    "skill_type" : 2,
+    "skill_id" : 10301512,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 3,
+    "skill_type" : 2,
+    "skill_id" : 11510011,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 4,
+    "skill_type" : 2,
+    "skill_id" : 11510012,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 5,
+    "skill_type" : 2,
+    "skill_id" : 10101211,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 6,
+    "skill_type" : 2,
+    "skill_id" : 10101312,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 7,
+    "skill_type" : 2,
+    "skill_id" : 10101411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 8,
+    "skill_type" : 2,
+    "skill_id" : 10101412,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 9,
+    "skill_type" : 2,
+    "skill_id" : 10301211,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 10,
+    "skill_type" : 2,
+    "skill_id" : 10301312,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 11,
+    "skill_type" : 2,
+    "skill_id" : 11001221,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 12,
+    "skill_type" : 2,
+    "skill_id" : 11508512,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 13,
+    "skill_type" : 2,
+    "skill_id" : 11510411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 14,
+    "skill_type" : 2,
+    "skill_id" : 11600321,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 15,
+    "skill_type" : 2,
+    "skill_id" : 11608912,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 16,
+    "skill_type" : 2,
+    "skill_id" : 11610412,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 17,
+    "skill_type" : 2,
+    "skill_id" : 11703012,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 18,
+    "skill_type" : 2,
+    "skill_id" : 11703113,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 19,
+    "skill_type" : 2,
+    "skill_id" : 11707512,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 20,
+    "skill_type" : 2,
+    "skill_id" : 11710611,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 21,
+    "skill_type" : 2,
+    "skill_id" : 11810111,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 22,
+    "skill_type" : 2,
+    "skill_id" : 11804511,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 23,
+    "skill_type" : 2,
+    "skill_id" : 11810611,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 24,
+    "skill_type" : 2,
+    "skill_id" : 11806611,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 25,
+    "skill_type" : 2,
+    "skill_id" : 11909312,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 26,
+    "skill_type" : 2,
+    "skill_id" : 11809812,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 27,
+    "skill_type" : 2,
+    "skill_id" : 11900811,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 28,
+    "skill_type" : 2,
+    "skill_id" : 11903212,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 29,
+    "skill_type" : 2,
+    "skill_id" : 12002811,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 30,
+    "skill_type" : 2,
+    "skill_id" : 11809411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 31,
+    "skill_type" : 2,
+    "skill_id" : 11905611,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 32,
+    "skill_type" : 2,
+    "skill_id" : 11905711,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 33,
+    "skill_type" : 2,
+    "skill_id" : 11909112,
+    "effect_position" : 2,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 34,
+    "skill_type" : 2,
+    "skill_id" : 12008211,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 35,
+    "skill_type" : 2,
+    "skill_id" : 12008411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 36,
+    "skill_type" : 2,
+    "skill_id" : 12009213,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 37,
+    "skill_type" : 2,
+    "skill_id" : 11906321,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 38,
+    "skill_type" : 2,
+    "skill_id" : 11910311,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 39,
+    "skill_type" : 2,
+    "skill_id" : 11910312,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 40,
+    "skill_type" : 2,
+    "skill_id" : 13003311,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 41,
+    "skill_type" : 2,
+    "skill_id" : 12201611,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 42,
+    "skill_type" : 2,
+    "skill_id" : 12209712,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 43,
+    "skill_type" : 2,
+    "skill_id" : 12102412,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 44,
+    "skill_type" : 2,
+    "skill_id" : 12103612,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 45,
+    "skill_type" : 2,
+    "skill_id" : 12104211,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 46,
+    "skill_type" : 2,
+    "skill_id" : 12108821,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 0,
+    "icon" : ""
+  },
+  {
+    "id" : 47,
+    "skill_type" : 2,
+    "skill_id" : 12210112,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 48,
+    "skill_type" : 2,
+    "skill_id" : 12105512,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 49,
+    "skill_type" : 2,
+    "skill_id" : 12205711,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 50,
+    "skill_type" : 2,
+    "skill_id" : 12108411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 51,
+    "skill_type" : 2,
+    "skill_id" : 11706111,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 52,
+    "skill_type" : 2,
+    "skill_id" : 11707711,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 53,
+    "skill_type" : 2,
+    "skill_id" : 11704611,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 54,
+    "skill_type" : 2,
+    "skill_id" : 11808411,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 55,
+    "skill_type" : 2,
+    "skill_id" : 11808421,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 56,
+    "skill_type" : 2,
+    "skill_id" : 12203521,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 57,
+    "skill_type" : 2,
+    "skill_id" : 12208911,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 58,
+    "skill_type" : 2,
+    "skill_id" : 12209412,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 59,
+    "skill_type" : 2,
+    "skill_id" : 12207421,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 60,
+    "skill_type" : 2,
+    "skill_id" : 12207921,
+    "effect_position" : 0,
+    "fx_id" : 30002,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer18"
+  },
+  {
+    "id" : 61,
+    "skill_type" : 2,
+    "skill_id" : 11908513,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 62,
+    "skill_type" : 2,
+    "skill_id" : 11908513,
+    "effect_position" : 0,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 63,
+    "skill_type" : 2,
+    "skill_id" : 11905813,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 64,
+    "skill_type" : 2,
+    "skill_id" : 11604911,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  },
+  {
+    "id" : 65,
+    "skill_type" : 2,
+    "skill_id" : 12109811,
+    "effect_position" : 1,
+    "fx_id" : 30001,
+    "player_icon" : 1,
+    "icon" : "Fx_Card_Buffer17"
+  }
+]

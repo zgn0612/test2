@@ -1,0 +1,330 @@
+[
+  {
+    "id" : 1,
+    "display_type" : 1,
+    "parameter1" : 1,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer4",
+    "fx_name2" : "Fx_BufferFxEx_Shield"
+  },
+  {
+    "id" : 2,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : 1,
+    "fx_name1" : "Fx_Card_Buffer3",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 3,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : 2,
+    "fx_name1" : "Fx_Card_Buffer6",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 4,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : 3,
+    "fx_name1" : "Fx_Card_Buffer7",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 5,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : 4,
+    "fx_name1" : "Fx_Card_Buffer8",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 6,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : 5,
+    "fx_name1" : "Fx_Card_Buffer9",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 7,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : -1,
+    "fx_name1" : "Fx_Card_Buffer5",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 8,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : -2,
+    "fx_name1" : "Fx_Card_Buffer10",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 9,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : -3,
+    "fx_name1" : "Fx_Card_Buffer11",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 10,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : -4,
+    "fx_name1" : "Fx_Card_Buffer12",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 11,
+    "display_type" : 2,
+    "parameter1" : 5,
+    "parameter2" : -5,
+    "fx_name1" : "Fx_Card_Buffer13",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 12,
+    "display_type" : 2,
+    "parameter1" : 10,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer1",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 13,
+    "display_type" : 2,
+    "parameter1" : 14,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun",
+    "fx_name2" : "Fx_qiandun_002"
+  },
+  {
+    "id" : 14,
+    "display_type" : 2,
+    "parameter1" : 19,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun",
+    "fx_name2" : "Fx_qiandun_002"
+  },
+  {
+    "id" : 15,
+    "display_type" : 2,
+    "parameter1" : 22,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun",
+    "fx_name2" : "Fx_qiandun_002"
+  },
+  {
+    "id" : 16,
+    "display_type" : 2,
+    "parameter1" : 23,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun",
+    "fx_name2" : "Fx_qiandun_002"
+  },
+  {
+    "id" : 17,
+    "display_type" : 2,
+    "parameter1" : 24,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun2",
+    "fx_name2" : "Fx_qiandun_001"
+  },
+  {
+    "id" : 18,
+    "display_type" : 2,
+    "parameter1" : 25,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun2",
+    "fx_name2" : "Fx_qiandun_001"
+  },
+  {
+    "id" : 19,
+    "display_type" : 2,
+    "parameter1" : 26,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun2",
+    "fx_name2" : "Fx_qiandun_001"
+  },
+  {
+    "id" : 20,
+    "display_type" : 2,
+    "parameter1" : 27,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun2",
+    "fx_name2" : "Fx_qiandun_001"
+  },
+  {
+    "id" : 21,
+    "display_type" : 1,
+    "parameter1" : 10,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun",
+    "fx_name2" : "Fx_qiandun_002"
+  },
+  {
+    "id" : 22,
+    "display_type" : 2,
+    "parameter1" : 1000,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer_dun3",
+    "fx_name2" : "Fx_skill_zzz_001_zb"
+  },
+  {
+    "id" : 23,
+    "display_type" : 1,
+    "parameter1" : 15,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer14",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 24,
+    "display_type" : 2,
+    "parameter1" : 9,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer15",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 25,
+    "display_type" : 1,
+    "parameter1" : 6,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer15",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 26,
+    "display_type" : 1,
+    "parameter1" : 14,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer16",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 27,
+    "display_type" : 2,
+    "parameter1" : 15,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer19",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 28,
+    "display_type" : 2,
+    "parameter1" : 11,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 29,
+    "display_type" : 2,
+    "parameter1" : 12,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 30,
+    "display_type" : 2,
+    "parameter1" : 13,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 31,
+    "display_type" : 2,
+    "parameter1" : 16,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 32,
+    "display_type" : 2,
+    "parameter1" : 18,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer18",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 33,
+    "display_type" : 2,
+    "parameter1" : 21,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 34,
+    "display_type" : 2,
+    "parameter1" : 28,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer15",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 35,
+    "display_type" : 2,
+    "parameter1" : 29,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer18",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 36,
+    "display_type" : 2,
+    "parameter1" : 31,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 37,
+    "display_type" : 2,
+    "parameter1" : 32,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer18",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 38,
+    "display_type" : 2,
+    "parameter1" : 35,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer17",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 39,
+    "display_type" : 2,
+    "parameter1" : 36,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer18",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 40,
+    "display_type" : 1,
+    "parameter1" : 3,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer15",
+    "fx_name2" : ""
+  },
+  {
+    "id" : 41,
+    "display_type" : 1,
+    "parameter1" : 4,
+    "parameter2" : 0,
+    "fx_name1" : "Fx_Card_Buffer14",
+    "fx_name2" : ""
+  }
+]

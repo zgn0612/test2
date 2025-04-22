@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "card_bag" : 90001,
+    "pool_id" : 301,
+    "range" : []
+  },
+  {
+    "id" : 2,
+    "card_bag" : 90002,
+    "pool_id" : 302,
+    "range" : []
+  },
+  {
+    "id" : 3,
+    "card_bag" : 90003,
+    "pool_id" : 303,
+    "range" : []
+  }
+]

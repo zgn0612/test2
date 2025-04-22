@@ -1,0 +1,125 @@
+{
+    "RunMode": "release",
+    "SvId" : 10001,
+    "ActionLog" : {
+        "Url" : "",
+        "Open" : false,
+        "Interval" : 10
+    },
+    "AccountUrl" : "https://dcgacc.shkuyu.com/",
+    "SyncToAccount" : false,
+    "Pitaya" : {
+        "metrics.statsd.enabled":false,
+        "metrics.statsd.host":"10.0.24.187:8125",
+        "cluster.sd.etcd.endpoints":"localhost:19900",
+        "buffer.handler.localprocess":2048,
+        "buffer.handler.remoteprocess":2048,
+        "cluster.rpc.client.grpcpool.initcap": 64,
+        "cluster.rpc.client.grpcpool.maxcap": 256,
+        "concurrency.handler.dispatch": 128,
+        "concurrency.remote.service": 30,
+        "conn.ratelimiting.limit": 10000,
+        "conn.ratelimiting.interval": 5
+    },
+    "Gateway":{
+        "SnowFlakeId" : 1,
+        "ExternalUrl":"dcg.shkuyu.com/10301/",
+        "Port":10301,
+        "IsFrontend":true,
+        "SvType":"gateway",
+        "GrpcSvPort":10302,
+        "GrpcSvHost":"127.0.0.1",
+        "HttpPort": 10303,
+        "PprofPort": 0
+    },
+    "Connector-0":{
+        "SnowFlakeId" : 2,
+        "ExternalUrl":"dcg.shkuyu.com/10401/",
+        "Port":10401,
+        "IsFrontend":true,
+        "SvType":"connector",
+        "GrpcSvPort":10402,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Connector-1":{
+        "SnowFlakeId" : 3,
+        "ExternalUrl":"dcg.shkuyu.com/10411/",
+        "Port":10411,
+        "IsFrontend":true,
+        "SvType":"connector",
+        "GrpcSvPort":10412,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Game-0":{
+        "SnowFlakeId" : 4,
+        "ExternalUrl":"",
+        "Port":10501,
+        "IsFrontend":false,
+        "SvType":"game",
+        "GrpcSvPort":10502,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Game-1":{
+        "SnowFlakeId" : 5,
+        "ExternalUrl":"",
+        "Port":10511,
+        "IsFrontend":false,
+        "SvType":"game",
+        "GrpcSvPort":10512,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Room-0":{
+        "SnowFlakeId" : 6,
+        "ExternalUrl":"",
+        "Port":10601,
+        "IsFrontend":false,
+        "SvType":"room",
+        "GrpcSvPort":10602,
+        "GrpcSvHost":"127.0.0.1",
+        "SvNo" : 0
+    },
+    "Room-1":{
+        "SnowFlakeId" : 7,
+        "ExternalUrl":"",
+        "Port":10611,
+        "IsFrontend":false,
+        "SvType":"room",
+        "GrpcSvPort":10612,
+        "GrpcSvHost":"127.0.0.1",
+        "SvNo" : 1
+    },
+     "Master":{
+        "SnowFlakeId" : 8,
+        "ExternalUrl":"",
+        "Port":10701,
+        "IsFrontend":false,
+        "SvType":"master",
+        "GrpcSvPort":10702,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Friend":{
+        "SnowFlakeId" : 9,
+        "ExternalUrl":"",
+        "Port":10801,
+        "IsFrontend":false,
+        "SvType":"friend",
+        "GrpcSvPort":10802,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    },
+    "Match":{
+        "SnowFlakeId" : 10,
+        "ExternalUrl":"",
+        "Port":10901,
+        "IsFrontend":false,
+        "SvType":"match",
+        "GrpcSvPort":10902,
+        "GrpcSvHost":"127.0.0.1",
+        "PprofPort": 0
+    }
+}

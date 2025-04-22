@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "content" : "rank_01"
+  },
+  {
+    "id" : 2,
+    "content" : "rank_02"
+  },
+  {
+    "id" : 3,
+    "content" : "rank_03"
+  },
+  {
+    "id" : 4,
+    "content" : "rank_04"
+  },
+  {
+    "id" : 5,
+    "content" : "rank_05"
+  },
+  {
+    "id" : 6,
+    "content" : "rank_06"
+  }
+]
